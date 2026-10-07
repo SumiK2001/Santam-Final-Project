@@ -1,0 +1,264 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [6 0 R 8 0 R 10 0 R 12 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Length 6157 >>
+stream
+0.080 0.290 0.480 rg 0 832 595 10 re f
+0.360 0.430 0.500 rg BT /F2 8 Tf 1 0 0 1 54.0 811.0 Tm (PROJECT 2 - SANTAM SHORT-TERM | LEARNER GUIDE) Tj ET
+0.78 0.83 0.87 RG 1 w 54 801 m 541 801 l S
+0.900 0.950 0.960 rg 47 760 501 44 re f
+0.080 0.290 0.480 rg BT /F2 23 Tf 1 0 0 1 54.0 770.0 Tm (Project 2 Learner Guide) Tj ET
+0.080 0.290 0.480 rg BT /F2 15 Tf 1 0 0 1 54.0 734.0 Tm (Santam Short-Term Insurance Underwriting and Claims Analytics) Tj ET
+0.000 0.480 0.480 rg BT /F2 11 Tf 1 0 0 1 54.0 705.0 Tm (Why this project exists) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 684.0 Tm (Short-term insurance covers risks over defined policy periods, commonly renewed each year.) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 671.0 Tm (Policies can change mid-term; premiums may be invoiced, paid, reversed or adjusted; and claims) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 658.0 Tm (move through reporting, assessment, authorisation, repair and settlement. A single storm or) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 645.0 Tm (flood can create many claims in one location over a short period.) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 627.0 Tm (These moving parts make a written-premium-only dashboard misleading. Your goal is to build a) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 614.0 Tm (reproducible, auditable warehouse and show underwriting, claims, suspicious-pattern and) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 601.0 Tm (geographic insights without turning a data-quality or fraud flag into an automatic decision.) Tj ET
+0.000 0.480 0.480 rg BT /F2 11 Tf 1 0 0 1 54.0 583.0 Tm (Business unit in plain language) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 67.0 562.0 Tm (- Motor insurance covers insured vehicles and related risks, subject to policy wording,) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 67.0 549.0 Tm (excesses and limits.) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 67.0 531.0 Tm (- Household insurance covers specified home contents or property risks. Area-level) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 67.0 518.0 Tm (concentration matters when the same event affects many policies.) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 67.0 500.0 Tm (- Commercial insurance covers business property and other defined business risks. Individual) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 67.0 487.0 Tm (losses can be much larger than an ordinary motor claim.) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 67.0 469.0 Tm (- Intermediaries include brokers, direct channels and bank-assurance. Production, commission) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 67.0 456.0 Tm (and portfolio results should be compared on consistent definitions.) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 67.0 438.0 Tm (- Service providers can include assessors and repairers. Cost and speed need to be considered) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 67.0 425.0 Tm (together with service quality and claim complexity.) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 67.0 407.0 Tm (- Claims have a lifecycle. A reported claim is not necessarily a settled claim, and paid value) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 67.0 394.0 Tm (can differ from the authorised amount.) Tj ET
+0.000 0.480 0.480 rg BT /F2 11 Tf 1 0 0 1 54.0 376.0 Tm (The earned-premium concept) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 355.0 Tm (The brief identifies earned premium as the technical heart of the project. Written premium) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 342.0 Tm (describes a transaction or contract amount; earned premium allocates the amount to the days of) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 329.0 Tm (risk actually provided during a reporting period. A policy covering 1 January through 31) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 316.0 Tm (December does not earn its entire annual premium on 1 January.) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 298.0 Tm (A simple pro-rata approach is:) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 280.0 Tm (earned premium for period = net written premium x covered days falling in period / total cover) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 267.0 Tm (days) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 249.0 Tm (For monthly reporting, split the coverage interval at month boundaries. Define whether the cover) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 236.0 Tm (end date is inclusive, how leap years are handled, and how mid-term endorsements or) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 223.0 Tm (cancellations change the amount and coverage. A fully expired policy should reconcile to its net) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 210.0 Tm (written premium under the agreed model, subject to rounding. Test a few policies by hand before) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 197.0 Tm (running the full extract.) Tj ET
+0.000 0.480 0.480 rg BT /F2 11 Tf 1 0 0 1 54.0 179.0 Tm (Core analytical questions) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 158.0 Tm (1. Underwriting profitability: Which product, channel and region combinations exceed a 100%) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 145.0 Tm (combined ratio on an earned basis? Separate claim frequency from severity. Compare results) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 132.0 Tm (with and without catastrophe-tagged claims.) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 114.0 Tm (2. Claims efficiency and leakage: Which providers combine slow settlement with high costs? How) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 101.0 Tm (often is paid amount greater than authorised amount, and what assumptions support any) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 88.0 Tm (annualised leakage estimate?) Tj ET
+0.78 0.83 0.87 RG 0.7 w 54 49 m 541 49 l S
+0.360 0.430 0.500 rg BT /F1 7 Tf 1 0 0 1 54.0 33.0 Tm (SIMULATED TRAINING MATERIAL | NOT FOR REAL CUSTOMER OR CLAIM DECISIONS) Tj ET
+0.360 0.430 0.500 rg BT /F2 8 Tf 1 0 0 1 471.0 33.0 Tm (Page 1) Tj ET
+
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 5 0 R >>
+endobj
+7 0 obj
+<< /Length 6467 >>
+stream
+0.080 0.290 0.480 rg 0 832 595 10 re f
+0.360 0.430 0.500 rg BT /F2 8 Tf 1 0 0 1 54.0 811.0 Tm (PROJECT 2 - SANTAM SHORT-TERM | LEARNER GUIDE) Tj ET
+0.78 0.83 0.87 RG 1 w 54 801 m 541 801 l S
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 770.0 Tm (3. Suspicious-pattern indicators: Which claims merit human review because of timing,) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 757.0 Tm (repetition, shared synthetic contact details, provider concentration or threshold-adjacent) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 744.0 Tm (values? Explain false-positive risks.) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 726.0 Tm (4. Geographic concentration: Where is sum insured concentrated? Which dates show claim surges,) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 713.0 Tm (and what loss might a hypothetical event produce under a clearly labelled damage-ratio) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 700.0 Tm (assumption?) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 682.0 Tm (5. Data quality: Which defects dominate, how quickly are quarantines resolved, and what) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 669.0 Tm (upstream control might prevent the most rework?) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 651.0 Tm (Each page should finish with a concise evidence-based headline and a proposed action. A risk) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 638.0 Tm (flag is a prompt for qualified human review, not a fraud verdict, coverage decision or claim) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 625.0 Tm (denial.) Tj ET
+0.000 0.480 0.480 rg BT /F2 11 Tf 1 0 0 1 54.0 607.0 Tm (KPI definitions to start from) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 586.0 Tm (Earned premium - Baseline definition: Written premium x covered days in period / total cover) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 573.0 Tm (days | Important decision: Define netting of credit notes, cancellations and endorsements;) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 560.0 Tm (handle partial periods.) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 542.0 Tm (Loss ratio - Baseline definition: \(Claims paid + change in outstanding reserves\) / earned) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 529.0 Tm (premium | Important decision: If reserves are absent, label it as a paid loss ratio and explain) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 516.0 Tm (the limitation.) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 498.0 Tm (Expense ratio - Baseline definition: Commission + acquisition and administration expense /) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 485.0 Tm (earned premium | Important decision: State which expense components are available in the) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 472.0 Tm (extract.) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 454.0 Tm (Combined ratio - Baseline definition: Loss ratio + expense ratio | Important decision: Above) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 441.0 Tm (100% indicates the defined claims and expenses exceed earned premium, before any omitted items.) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 423.0 Tm (Claim frequency - Baseline definition: Claims reported / earned exposure in policy-years |) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 410.0 Tm (Important decision: Define earned exposure and the unit of observation.) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 392.0 Tm (Average claim cost - Baseline definition: Total paid / number of settled claims | Important) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 379.0 Tm (decision: Avoid dividing by all reported claims if many remain open.) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 361.0 Tm (Cycle time - Baseline definition: Settlement date - report date | Important decision: Report) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 348.0 Tm (median and 90th percentile as well as an average; define open-claim treatment.) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 330.0 Tm (Leakage rate - Baseline definition: Positive amount of \(paid - authorised\) / total authorised |) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 317.0 Tm (Important decision: A positive gap is a review signal, not proof of overpayment.) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 299.0 Tm (Fraud flag rate - Baseline definition: Claims above the documented score threshold / claims) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 286.0 Tm (reported | Important decision: Report the threshold and explain that flags are not findings.) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 268.0 Tm (Concentration share - Baseline definition: Sum insured in area / total sum insured | Important) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 255.0 Tm (decision: Define postal-area mapping, top-10 scope and any missing-geography treatment.) Tj ET
+0.000 0.480 0.480 rg BT /F2 11 Tf 1 0 0 1 54.0 237.0 Tm (Claims and risk concepts) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 216.0 Tm (Accumulating-snapshot fact. A claim lifecycle table keeps one row per claim and fills milestone) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 203.0 Tm (dates as the claim progresses: reported, assessed, authorised, repaired and settled. It is) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 190.0 Tm (useful for cycle-time reporting and is updated as new events arrive. Preserve event history) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 177.0 Tm (separately if you need a full audit trail.) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 159.0 Tm (Role-playing dates. A claim can have loss, report and settlement dates. Use a shared date) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 146.0 Tm (dimension; the loss date is often the active relationship, with other date relationships) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 133.0 Tm (activated in measures when needed. Test each measure against SQL because multiple date) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 120.0 Tm (relationships can change filter behavior.) Tj ET
+0.78 0.83 0.87 RG 0.7 w 54 49 m 541 49 l S
+0.360 0.430 0.500 rg BT /F1 7 Tf 1 0 0 1 54.0 33.0 Tm (SIMULATED TRAINING MATERIAL | NOT FOR REAL CUSTOMER OR CLAIM DECISIONS) Tj ET
+0.360 0.430 0.500 rg BT /F2 8 Tf 1 0 0 1 471.0 33.0 Tm (Page 2) Tj ET
+
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 7 0 R >>
+endobj
+9 0 obj
+<< /Length 6775 >>
+stream
+0.080 0.290 0.480 rg 0 832 595 10 re f
+0.360 0.430 0.500 rg BT /F2 8 Tf 1 0 0 1 54.0 811.0 Tm (PROJECT 2 - SANTAM SHORT-TERM | LEARNER GUIDE) Tj ET
+0.78 0.83 0.87 RG 1 w 54 801 m 541 801 l S
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 770.0 Tm (Type 2 history. When policy risk details change, keep a version with effective-from,) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 757.0 Tm (effective-to and current-row flag rather than overwriting the old values. This lets you report) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 744.0 Tm (exposure using the policy address, vehicle value or cover amount that applied on the event date.) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 731.0 Tm (Ensure only one current version exists for each policy-risk entity.) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 713.0 Tm (Catastrophe accumulation. Many claims clustered in date and geography can signal a shared event,) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 700.0 Tm (but correlation alone does not establish cause. Use the event calendar as a hypothesis, compare) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 687.0 Tm (with nearby periods and areas, and state how event tagging was assigned.) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 669.0 Tm (Explainable review signals. A transparent score can add documented points for a claim within 30) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 656.0 Tm (days of inception, repeated claims, shared synthetic contact attributes, unusual provider/broker) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 643.0 Tm (concentration or round amounts. Record each component separately, state why the threshold was) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 630.0 Tm (selected, and evaluate false positives. Exclude protected or sensitive attributes and test) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 617.0 Tm (whether location acts as an unfair proxy.) Tj ET
+0.000 0.480 0.480 rg BT /F2 11 Tf 1 0 0 1 54.0 599.0 Tm (Data engineering concepts) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 578.0 Tm (Profile dates, claim states, money fields, premiums, risks and references before cleaning. The) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 565.0 Tm (source files intentionally mix formats. A value that looks invalid may be a valid credit note or) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 552.0 Tm (an event that is possible but unusual.) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 534.0 Tm (Use loss date <= report date <= settlement date as a starting chronology check, but do not) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 521.0 Tm (rewrite dates without evidence. Check loss date against cover dates. Keep large, plausible) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 508.0 Tm (catastrophe and commercial losses visible; do not cap genuine claims simply because they exceed) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 495.0 Tm (an IQR fence. Apply caps only when a documented rule supports a data-entry error.) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 477.0 Tm (Resolve customer, vehicle and provider duplicates cautiously. Normalised synthetic identifiers) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 464.0 Tm (or registrations can support deterministic matches. Fuzzy names and branches create candidates,) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 451.0 Tm (not unquestionable truth. Preserve a crosswalk that can be reviewed and reversed.) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 433.0 Tm (For negative premium events, distinguish a matched cancellation or credit note from an unmatched) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 420.0 Tm (suspicious entry. Reconcile amounts and references before classification. Track every correction) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 407.0 Tm (in a POPIA-conscious audit log, and mask direct identifiers from reporting.) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 389.0 Tm (For every source extract, reconcile:) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 371.0 Tm (rows read = rows loaded + rows quarantined + intentionally dropped) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 353.0 Tm (Quarantine records need a reason code, source file, timestamp, status and reprocessing route.) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 340.0 Tm (Repeated pipeline runs should not create duplicate premium, claim or audit rows.) Tj ET
+0.000 0.480 0.480 rg BT /F2 11 Tf 1 0 0 1 54.0 322.0 Tm (Suggested anomaly catalogue) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 301.0 Tm (Use the BRD's starter codes and extend them when profiling identifies additional issues:) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 67.0 283.0 Tm (- B01 duplicate customer or risk: normalised ID, registration or VIN repeats; resolve with) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 67.0 270.0 Tm (evidence and keep a crosswalk.) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 67.0 252.0 Tm (- B02 impossible vehicle year: after policy inception or before the chosen plausibility) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 67.0 239.0 Tm (boundary; null or quarantine according to an explicit rule.) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 67.0 221.0 Tm (- B03 zero/extreme sum insured: investigate by line; cap a proven entry mistake or flag a) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 67.0 208.0 Tm (plausible large exposure.) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 67.0 190.0 Tm (- B04 claim outside cover: loss before inception or after expiry; quarantine unless a) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 67.0 177.0 Tm (documented correction is supported.) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 67.0 159.0 Tm (- B05 date-chain violation: report precedes loss or settlement precedes report; never silently) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 67.0 146.0 Tm (reorder events.) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 67.0 128.0 Tm (- B06 paid above authorised / sum insured: flag for claims review with the relevant amount and) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 67.0 115.0 Tm (policy version.) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 67.0 97.0 Tm (- B07 duplicate claim or transaction: matching policy, loss date, cause and amount; check) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 67.0 84.0 Tm (legitimate split payments first.) Tj ET
+0.78 0.83 0.87 RG 0.7 w 54 49 m 541 49 l S
+0.360 0.430 0.500 rg BT /F1 7 Tf 1 0 0 1 54.0 33.0 Tm (SIMULATED TRAINING MATERIAL | NOT FOR REAL CUSTOMER OR CLAIM DECISIONS) Tj ET
+0.360 0.430 0.500 rg BT /F2 8 Tf 1 0 0 1 471.0 33.0 Tm (Page 3) Tj ET
+
+endstream
+endobj
+10 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 9 0 R >>
+endobj
+11 0 obj
+<< /Length 4778 >>
+stream
+0.080 0.290 0.480 rg 0 832 595 10 re f
+0.360 0.430 0.500 rg BT /F2 8 Tf 1 0 0 1 54.0 811.0 Tm (PROJECT 2 - SANTAM SHORT-TERM | LEARNER GUIDE) Tj ET
+0.78 0.83 0.87 RG 1 w 54 801 m 541 801 l S
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 67.0 770.0 Tm (- B08 orphan key: missing policy, customer, broker, vehicle, geography or provider parent.) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 67.0 752.0 Tm (- B09 provider variant: name/branch spelling differs from the reference; map with a logged) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 67.0 739.0 Tm (alias.) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 67.0 721.0 Tm (- B10 unmatched credit note: negative premium has no matching original transaction reference.) Tj ET
+0.000 0.480 0.480 rg BT /F2 11 Tf 1 0 0 1 54.0 703.0 Tm (A practical three-week sequence) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 682.0 Tm (Week 1 - Profile and define: agree the earned-premium method, build policy examples by hand,) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 669.0 Tm (catalogue anomalies and create tested cleaning rules.) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 651.0 Tm (Week 2 - Model and reconcile: implement Type 2 policy-risk history, premium and claim facts,) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 638.0 Tm (accumulating claim snapshots, quarantine, indexes and reconciliation views.) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 620.0 Tm (Week 3 - Analyse and communicate: build the six required reporting surfaces \(executive summary) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 607.0 Tm (plus five analytical tasks\), verify measures against SQL, review flag fairness and prepare) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 594.0 Tm (evidence-led actions.) Tj ET
+0.000 0.480 0.480 rg BT /F2 11 Tf 1 0 0 1 54.0 576.0 Tm (Questions to defend in your final review) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 67.0 555.0 Tm (- How does a policy's earned premium change across its cover months?) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 67.0 537.0 Tm (- What happens to earned premium when the policy is endorsed or cancelled mid-term?) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 67.0 519.0 Tm (- Why is a high claim amount flagged rather than automatically capped?) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 67.0 501.0 Tm (- What false positives might your review indicators produce?) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 67.0 483.0 Tm (- How do Type 2 versions ensure an old claim uses the correct historical risk values?) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 67.0 465.0 Tm (- How would you distinguish an event cluster from a seasonal or reporting effect?) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 67.0 447.0 Tm (- What is excluded from the combined ratio because it is not present in the source data?) Tj ET
+0.000 0.480 0.480 rg BT /F2 11 Tf 1 0 0 1 54.0 429.0 Tm (Short glossary) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 408.0 Tm (Accumulating snapshot: a fact row updated as a process reaches new milestones. Combined ratio:) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 395.0 Tm (defined loss and expense costs divided by earned premium, commonly expressed as a percentage.) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 382.0 Tm (Credit note: a transaction that reduces or reverses a prior premium charge. Earned exposure:) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 369.0 Tm (insured time represented as a fraction of a policy-year. Endorsement: a mid-term policy change) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 356.0 Tm (that may adjust cover and premium. Type 2 history: dimensional modelling that retains prior) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 343.0 Tm (versions of changing attributes.) Tj ET
+0.000 0.480 0.480 rg BT /F2 11 Tf 1 0 0 1 54.0 325.0 Tm (Training-data caution) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 304.0 Tm (All records are fictional and all identity-like/contact/banking values are synthetic) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 291.0 Tm (placeholders. Do not use this sample to contact people, decide cover, settle claims or accuse) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 278.0 Tm (anyone of fraud. A pattern indicator is for review only. The guide follows the supplied) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 265.0 Tm (simulated requirements and does not replace legal, actuarial, claims or regulatory advice.) Tj ET
+0.78 0.83 0.87 RG 0.7 w 54 49 m 541 49 l S
+0.360 0.430 0.500 rg BT /F1 7 Tf 1 0 0 1 54.0 33.0 Tm (SIMULATED TRAINING MATERIAL | NOT FOR REAL CUSTOMER OR CLAIM DECISIONS) Tj ET
+0.360 0.430 0.500 rg BT /F2 8 Tf 1 0 0 1 471.0 33.0 Tm (Page 4) Tj ET
+
+endstream
+endobj
+12 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 11 0 R >>
+endobj
+13 0 obj
+<< /Title (Learner Guide) /Producer (stdlib training pack PDF builder) >>
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000141 00000 n 
+0000000238 00000 n 
+0000000340 00000 n 
+0000006549 00000 n 
+0000006685 00000 n 
+0000013204 00000 n 
+0000013340 00000 n 
+0000020167 00000 n 
+0000020304 00000 n 
+0000025135 00000 n 
+0000025273 00000 n 
+trailer
+<< /Size 14 /Root 1 0 R /Info 13 0 R >>
+startxref
+25363
+%%EOF

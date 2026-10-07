@@ -1,0 +1,701 @@
+﻿source_row_id,intermediary_id,intermediary_name,fsp_number,channel,network_name,province,active_flag,termination_date
+STI-0000001,INT000001,Thandi Mabena Brokers,SIM-FSP-0000001,Broker,National Broker Group,Western Cape,N,N/A
+STI-0000002,INT000002,Keitumetse Pillay Brokers,SIM-FSP-0000002,Direct,Coastal Group,Northern Cape,1,04-14-2020
+STI-0000003,INT000003,Zanele Mahlangu Brokers,SIM-FSP-0000003,Broker,Coastal Group,Free State,1,27/06/2023
+STI-0000004,INT000004,Samuel Mthembu Brokers,SIM-FSP-0000004,Bank-Assurance,Coastal Group,Limpopo,Y,N/A
+STI-0000005,INT000005,Thandi Botha Brokers,,Bank-Assurance,Independent,North West,1,08-30-2021
+STI-0000006,INT000006,Keitumetse Jacobs Brokers,SIM-FSP-0000006,Broker,Coastal Group,Eastern Cape,N,NULL
+STI-0000007,INT000007,Amina Mthembu Brokers,SIM-FSP-0000007,Broker,Independent,North West,Active,2024-02-05
+STI-0000008,INT000008,Mariam van der Merwe Brokers,SIM-FSP-0000008,BROKER,National Broker Group,Mpumalanga,1,NULL
+STI-0000009,INT000009,Mariam Smith Brokers,SIM-FSP-0000009,Direct,Metro Network,Limpopo,N,NULL
+STI-0000010,INT000010,Neo Smith Brokers,SIM-FSP-0000010,Direct,Coastal Group,Eastern Cape,N,
+STI-0000011,INT000011,Tshepo Molefe Brokers,SIM-FSP-0000011,Broker,,North West,N,N/A
+STI-0000012,INT000012,Naledi Sithole Brokers,SIM-FSP-0000012,Bank-Assurance,Metro Network,Northern Cape,Active,
+STI-0000013,INT000013,Fatima Mahlangu Brokers,SIM-FSP-0000013,Bank Assurance,Coastal Group,Free State,N,NULL
+STI-0000014,INT000014,Amina Maseko Brokers,SIM-FSP-0000014,Bank-Assurance,National Broker Group,Northern Cape,Yes,2023-01-27
+STI-0000015,INT000015,Peter Smith Brokers,SIM-FSP-0000015,Bank-Assurance,Metro Network,Limpopo,Y,
+STI-0000016,INT000016,Peter Mahlangu Brokers,SIM-FSP-0000016,Direct,Metro Network,Free State,N,
+STI-0000017,INT000017,Sipho Mokoena Brokers,SIM-FSP-0000017,Bank-Assurance,Metro Network,Northern Cape,Y,
+STI-0000018,INT000018,Peter van der Merwe Brokers,SIM-FSP-0000018,Broker,Independent,Mpumalanga,1,
+STI-0000019,INT000019,Brian Mokoena Brokers,SIM-FSP-0000019,Broker,Coastal Group,Free State,N,NULL
+STI-0000020,INT000020,Amina Maseko Brokers,SIM-FSP-0000020,Bank Assurance,Metro Network,Northern Cape,1,
+STI-0000021,INT000021,Brian Maseko Brokers,SIM-FSP-0000021,Bank Assurance,Coastal Group,Northern Cape,Yes,09-17-2020
+STI-0000022,INT000022,Brian Ndlovu Brokers,SIM-FSP-0000022,Bank-Assurance,,Western Cape,N,2023/09/25
+STI-0000023,INT000023,Fatima Sithole Brokers,SIM-FSP-0000023,Direct,Metro Network,Gauteng,Y,2021/09/21
+STI-0000024,INT000024,Sipho Mahlangu Brokers,SIM-FSP-0000024,Broker,National Broker Group,Western Cape,Y,2022/05/17
+STI-0000025,INT000025,Thandi Adams Brokers,SIM-FSP-0000025,BROKER,Metro Network,Northern Cape,Active,15/02/2021
+STI-0000026,INT000026,Kabelo Sithole Brokers,SIM-FSP-0000026,Bank Assurance,Coastal Group,Free State,Yes,N/A
+STI-0000027,INT000027,Mariam Molefe Brokers,SIM-FSP-0000027,Direct,National Broker Group,Eastern Cape,Y,2020-10-26
+STI-0000028,INT000028,Naledi Khumalo Brokers,,Broker,National Broker Group,Western Cape,1,N/A
+STI-0000029,INT000029,Samuel Botha Brokers,SIM-FSP-0000029,Bank Assurance,,Eastern Cape,Yes,
+STI-0000030,INT000030,Naledi Jacobs Brokers,NULL,Bank Assurance,Coastal Group,Eastern Cape,Yes,
+STI-0000031,INT000031,Lerato van der Merwe Brokers,SIM-FSP-0000031,Broker,Coastal Group,KwaZulu-Natal,Active,NULL
+STI-0000032,INT000032,Tshepo Zulu Brokers,SIM-FSP-0000032,BROKER,National Broker Group,North West,Y,2022/01/14
+STI-0000033,INT000033,Lwazi Nkosi Brokers,SIM-FSP-0000033,Bank-Assurance,National Broker Group,Mpumalanga,N,05-27-2021
+STI-0000034,INT000034,Keitumetse Mokoena Brokers,SIM-FSP-0000034,Bank Assurance,Metro Network,Mpumalanga,Yes,N/A
+STI-0000035,INT000035,Zanele Pillay Brokers,SIM-FSP-0000035,BROKER,Independent,Free State,N,N/A
+STI-0000036,INT000036,Grace Dlamini Brokers,SIM-FSP-0000036,Direct,National Broker Group,Western Cape,Y,
+STI-0000037,INT000037,Grace van der Merwe Brokers,SIM-FSP-0000037,Broker,Metro Network,Mpumalanga,N,
+STI-0000038,INT000038,Tshepo Mokoena Brokers,SIM-FSP-0000038,Direct,National Broker Group,Mpumalanga,Yes,NULL
+STI-0000039,INT000039,Zanele Khumalo Brokers,SIM-FSP-0000039,BROKER,National Broker Group,North West,Yes,NULL
+STI-0000040,INT000040,Lwazi Mthembu Brokers,SIM-FSP-0000040,Direct,National Broker Group,Eastern Cape,N,31/07/2020
+STI-0000041,INT000041,Lerato Ndlovu Brokers,SIM-FSP-0000041,Bank Assurance,Independent,Free State,N,NULL
+STI-0000042,INT000042,David Nkosi Brokers,SIM-FSP-0000042,Bank-Assurance,Coastal Group,Limpopo,Y,NULL
+STI-0000043,INT000043,Sipho Mokoena Brokers,SIM-FSP-0000043,BROKER,Metro Network,Western Cape,1,NULL
+STI-0000044,INT000044,Fatima Ndlovu Brokers,SIM-FSP-0000044,Broker,Coastal Group,Gauteng,1,N/A
+STI-0000045,INT000045,Nandi Mahlangu Brokers,SIM-FSP-0000045,BROKER,Coastal Group,Mpumalanga,Yes,
+STI-0000046,INT000046,Amina Naidoo Brokers,SIM-FSP-0000046,Broker,National Broker Group,KwaZulu-Natal,Yes,NULL
+STI-0000047,INT000047,Grace Khumalo Brokers,SIM-FSP-0000047,Bank-Assurance,,Free State,1,
+STI-0000048,INT000048,Sipho Maseko Brokers,SIM-FSP-0000048,BROKER,Independent,Mpumalanga,Active,2023-07-02
+STI-0000049,INT000049,Amina Mthembu Brokers,SIM-FSP-0000049,Broker,Coastal Group,Gauteng,N,
+STI-0000050,INT000050,Neo Pillay Brokers,SIM-FSP-0000050,Broker,Coastal Group,Western Cape,Active,
+STI-0000051,INT000051,Brian Jacobs Brokers,SIM-FSP-0000051,,Metro Network,Eastern Cape,N,2025/04/29
+STI-0000052,INT000052,Portia Botha Brokers,SIM-FSP-0000020,Broker,Independent,KwaZulu-Natal,Y,
+STI-0000053,INT000053,Portia Ndlovu Brokers,SIM-FSP-0000053,Bank Assurance,National Broker Group,Eastern Cape,Active,NULL
+STI-0000054,INT000054,Nandi Naidoo Brokers,SIM-FSP-0000054,Bank Assurance,,Northern Cape,N,2025-04-09
+STI-0000055,INT000055,Grace Ndlovu Brokers,SIM-FSP-0000055,BROKER,Independent,Eastern Cape,Active,N/A
+STI-0000056,INT000056,Lwazi Ndlovu Brokers,SIM-FSP-0000056,Bank Assurance,National Broker Group,Limpopo,Y,NULL
+STI-0000057,INT000057,Brian Maseko Brokers,SIM-FSP-0000057,Broker,Metro Network,Eastern Cape,N,2021/08/31
+STI-0000058,INT000058,Lerato Zulu Brokers,SIM-FSP-0000058,BROKER,Coastal Group,Free State,N,19/05/2021
+STI-0000059,INT000059,Musa Pillay Brokers,SIM-FSP-0000059,Bank-Assurance,Coastal Group,North West,Active,
+STI-0000060,INT000060,Ayanda Williams Brokers,SIM-FSP-0000060,Broker,Coastal Group,Western Cape,Active,
+STI-0000061,INT000061,Neo Khumalo Brokers,SIM-FSP-0000061,Direct,Metro Network,Eastern Cape,N,NULL
+STI-0000062,INT000062,Thandi Khumalo Brokers,SIM-FSP-0000062,Bank Assurance,,Western Cape,Yes,
+STI-0000063,INT000063,Peter Zulu Brokers,SIM-FSP-0000063,Bank-Assurance,National Broker Group,Mpumalanga,N,18/10/2020
+STI-0000064,INT000064,Thandi Williams Brokers,SIM-FSP-0000064,Direct,National Broker Group,Limpopo,1,2022-12-20
+STI-0000065,INT000065,Samuel Smith Brokers,SIM-FSP-0000065,Direct,Coastal Group,Gauteng,Active,N/A
+STI-0000066,INT000066,Fatima Khumalo Brokers,NULL,Bank Assurance,Coastal Group,Northern Cape,1,N/A
+STI-0000067,INT000067,Grace Mthembu Brokers,SIM-FSP-0000067,Broker,National Broker Group,Free State,Active,N/A
+STI-0000068,INT000068,Zanele Sithole Brokers,SIM-FSP-0000068,BROKER,Metro Network,Mpumalanga,N,09-14-2020
+STI-0000069,INT000069,Fatima Khumalo Brokers,SIM-FSP-0000069,Bank-Assurance,,Mpumalanga,Active,NULL
+STI-0000070,INT000070,Zanele Mahlangu Brokers,SIM-FSP-0000070,Broker,Coastal Group,KwaZulu-Natal,1,N/A
+STI-0000071,INT000071,Kabelo Molefe Brokers,SIM-FSP-0000071,BROKER,National Broker Group,Western Cape,Y,13/06/2025
+STI-0000072,INT000072,Musa Jacobs Brokers,SIM-FSP-0000072,BROKER,National Broker Group,Free State,Y,N/A
+STI-0000073,INT000073,Musa Mahlangu Brokers,SIM-FSP-0000073,Direct,Metro Network,Mpumalanga,Yes,2023-11-02
+STI-0000074,INT000074,Grace Zulu Brokers,SIM-FSP-0000074,Broker,National Broker Group,Northern Cape,Active,2020-12-03
+STI-0000075,INT000075,Zanele Mahlangu Brokers,SIM-FSP-0000075,Direct,Independent,North West,1,2020-06-08
+STI-0000076,INT000076,Thandi Nkosi Brokers,SIM-FSP-0000073,Direct,National Broker Group,Free State,N,2021-01-04
+STI-0000077,INT000077,Sipho Khumalo Brokers,SIM-FSP-0000077,BROKER,,Free State,Y,01-03-2025
+STI-0000078,INT000078,Grace Mahlangu Brokers,SIM-FSP-0000078,Bank Assurance,Metro Network,Northern Cape,Active,N/A
+STI-0000079,INT000079,Brian Mokoena Brokers,SIM-FSP-0000079,Direct,National Broker Group,KwaZulu-Natal,N,2021-12-17
+STI-0000080,INT000080,Nomsa Maseko Brokers,SIM-FSP-0000080,Broker,National Broker Group,KwaZulu-Natal,N,N/A
+STI-0000081,INT000081,Thandi Mthembu Brokers,SIM-FSP-0000081,BROKER,,Mpumalanga,Active,
+STI-0000082,INT000082,Neo Pillay Brokers,SIM-FSP-0000082,Broker,Metro Network,North West,Yes,
+STI-0000083,INT000083,Nomsa Naidoo Brokers,SIM-FSP-0000083,Bank Assurance,Coastal Group,Western Cape,1,15/04/2024
+STI-0000084,INT000084,Daniel Dlamini Brokers,SIM-FSP-0000084,Direct,Coastal Group,KwaZulu-Natal,N,2023-03-14
+STI-0000085,INT000085,Nandi Naidoo Brokers,SIM-FSP-0000085,Broker,Independent,Eastern Cape,1,
+STI-0000086,INT000086,Fatima Botha Brokers,N/A,Bank Assurance,,Free State,1,NULL
+STI-0000087,INT000087,Kabelo Khumalo Brokers,SIM-FSP-0000087,Bank Assurance,Independent,Northern Cape,Yes,22/08/2021
+STI-0000088,INT000088,Thandi Adams Brokers,SIM-FSP-0000088,Bank Assurance,Coastal Group,Eastern Cape,Y,N/A
+STI-0000089,INT000089,Grace Mthembu Brokers,SIM-FSP-0000089,Bank-Assurance,Independent,Free State,Yes,03/10/2025
+STI-0000090,INT000090,Neo Mokoena Brokers,SIM-FSP-0000090,Bank Assurance,Independent,Free State,N,N/A
+STI-0000091,INT000091,Peter Khumalo Brokers,SIM-FSP-0000091,Broker,Independent,Eastern Cape,Y,N/A
+STI-0000092,INT000092,Mariam Mahlangu Brokers,SIM-FSP-0000092,BROKER,National Broker Group,Free State,Active,
+STI-0000093,INT000093,Naledi Botha Brokers,SIM-FSP-0000093,BROKER,Metro Network,Mpumalanga,Yes,06-22-2024
+STI-0000094,INT000094,Keitumetse Dlamini Brokers,SIM-FSP-0000094,BROKER,Coastal Group,North West,Y,10-31-2025
+STI-0000095,INT000095,Nomsa Naidoo Brokers,SIM-FSP-0000095,Bank-Assurance,,KwaZulu-Natal,Y,N/A
+STI-0000096,INT000096,Neo Zulu Brokers,SIM-FSP-0000096,Direct,Independent,Free State,Active,
+STI-0000097,INT000097,Sipho Molefe Brokers,SIM-FSP-0000097,Direct,Coastal Group,KwaZulu-Natal,Active,N/A
+STI-0000098,INT000098,Daniel Smith Brokers,SIM-FSP-0000098,Direct,Coastal Group,Western Cape,Active,
+STI-0000099,INT000099,Lerato Sithole Brokers,SIM-FSP-0000099,Broker,National Broker Group,Northern Cape,Yes,2025-01-26
+STI-0000100,INT000100,Ayanda Sithole Brokers,SIM-FSP-0000100,Bank Assurance,National Broker Group,Western Cape,Active,NULL
+STI-0000101,INT000101,Lwazi Jacobs Brokers,SIM-FSP-0000101,Broker,National Broker Group,Mpumalanga,Yes,NULL
+STI-0000102,INT000102,Lerato Maseko Brokers,SIM-FSP-0000102,Direct,National Broker Group,Western Cape,Y,N/A
+STI-0000103,INT000103,Amina Dlamini Brokers,SIM-FSP-0000103,Direct,National Broker Group,Free State,Yes,07/07/2020
+STI-0000104,INT000104,Nomsa van der Merwe Brokers,SIM-FSP-0000104,Broker,Independent,Gauteng,Yes,2020-06-16
+STI-0000105,INT000105,Portia Smith Brokers,SIM-FSP-0000105,Broker,National Broker Group,Gauteng,1,09/11/2020
+STI-0000106,INT000106,Portia Botha Brokers,SIM-FSP-0000106,Bank Assurance,National Broker Group,Gauteng,1,
+STI-0000107,INT000107,Nandi Williams Brokers,SIM-FSP-0000107,Direct,Independent,Free State,N,2024/05/01
+STI-0000108,INT000108,Naledi Zulu Brokers,SIM-FSP-0000108,Direct,Independent,Free State,Y,
+STI-0000109,INT000109,Zanele Maseko Brokers,SIM-FSP-0000109,Broker,Independent,Mpumalanga,Active,NULL
+STI-0000110,INT000110,Fatima Mthembu Brokers,SIM-FSP-0000110,Broker,Coastal Group,Northern Cape,Yes,03/05/2025
+STI-0000111,INT000111,Brian Jacobs Brokers,N/A,Bank-Assurance,Independent,Gauteng,Y,2021/08/24
+STI-0000112,INT000112,Peter Khumalo Brokers,SIM-FSP-0000112,Bank-Assurance,Coastal Group,Eastern Cape,N,
+STI-0000113,INT000113,Sipho Molefe Brokers,SIM-FSP-0000113,BROKER,Coastal Group,Mpumalanga,Yes,NULL
+STI-0000114,INT000114,Ayanda Adams Brokers,SIM-FSP-0000114,Broker,Coastal Group,Free State,Y,NULL
+STI-0000115,INT000115,Sipho Williams Brokers,SIM-FSP-0000115,BROKER,,North West,1,10/05/2021
+STI-0000116,INT000116,Lwazi Mabena Brokers,SIM-FSP-0000116,BROKER,Coastal Group,Gauteng,1,2025/05/25
+STI-0000117,INT000117,Brian Mokoena Brokers,SIM-FSP-0000117,Direct,,North West,Active,N/A
+STI-0000118,INT000118,Lerato van der Merwe Brokers,SIM-FSP-0000118,Direct,,Gauteng,1,
+STI-0000119,INT000119,Lerato Nkosi Brokers,SIM-FSP-0000119,BROKER,,KwaZulu-Natal,Yes,
+STI-0000120,INT000120,Amina Mahlangu Brokers,SIM-FSP-0000120,Bank Assurance,Coastal Group,Free State,1,NULL
+STI-0000121,INT000121,David Dlamini Brokers,,Broker,,Northern Cape,1,2021/05/13
+STI-0000122,INT000122,Daniel Mahlangu Brokers,SIM-FSP-0000122,Broker,National Broker Group,Free State,N,NULL
+STI-0000123,INT000123,Nandi Smith Brokers,SIM-FSP-0000123,Bank Assurance,Metro Network,Gauteng,Y,2021/01/03
+STI-0000124,INT000124,Musa Maseko Brokers,SIM-FSP-0000124,Broker,Metro Network,KwaZulu-Natal,Y,NULL
+STI-0000125,INT000125,Daniel Jacobs Brokers,SIM-FSP-0000125,BROKER,National Broker Group,Mpumalanga,1,
+STI-0000126,INT000126,Mariam Dlamini Brokers,SIM-FSP-0000126,Broker,Metro Network,Northern Cape,N,
+STI-0000127,INT000127,Thandi Maseko Brokers,SIM-FSP-0000127,Bank-Assurance,Coastal Group,Gauteng,N,N/A
+STI-0000128,INT000128,David Williams Brokers,SIM-FSP-0000128,Bank Assurance,Independent,North West,1,NULL
+STI-0000129,INT000129,Tshepo Molefe Brokers,SIM-FSP-0000129,Bank-Assurance,Coastal Group,North West,N,2021/12/16
+STI-0000130,INT000130,Amina Naidoo Brokers,SIM-FSP-0000130,Direct,Independent,Western Cape,1,N/A
+STI-0000131,INT000131,Tshepo Mthembu Brokers,SIM-FSP-0000131,Bank-Assurance,Independent,North West,Yes,
+STI-0000132,INT000132,Lerato Jacobs Brokers,SIM-FSP-0000132,BROKER,Metro Network,Gauteng,Active,NULL
+STI-0000133,INT000133,Sipho Maseko Brokers,SIM-FSP-0000133,Broker,Coastal Group,Limpopo,1,NULL
+STI-0000134,INT000134,Lerato Nkosi Brokers,SIM-FSP-0000134,Broker,,Limpopo,1,NULL
+STI-0000135,INT000135,Ayanda Williams Brokers,SIM-FSP-0000135,Direct,Independent,Eastern Cape,Yes,
+STI-0000136,INT000136,Peter Mahlangu Brokers,SIM-FSP-0000136,Broker,Metro Network,North West,Yes,NULL
+STI-0000137,INT000137,Ayanda van der Merwe Brokers,SIM-FSP-0000137,Broker,Independent,Gauteng,Y,N/A
+STI-0000138,INT000138,Kabelo Smith Brokers,SIM-FSP-0000138,Bank Assurance,National Broker Group,Limpopo,N,N/A
+STI-0000139,INT000139,Nandi Mahlangu Brokers,SIM-FSP-0000139,Bank Assurance,,Northern Cape,N,N/A
+STI-0000140,INT000140,Grace Molefe Brokers,SIM-FSP-0000140,Broker,National Broker Group,KwaZulu-Natal,Active,N/A
+STI-0000141,INT000141,Amina Mokoena Brokers,SIM-FSP-0000141,BROKER,,Northern Cape,Y,
+STI-0000142,INT000142,Portia Zulu Brokers,SIM-FSP-0000142,Bank Assurance,Coastal Group,Free State,Y,
+STI-0000143,INT000143,Daniel Molefe Brokers,SIM-FSP-0000143,Bank-Assurance,Independent,North West,Active,NULL
+STI-0000144,INT000144,Daniel Molefe Brokers,SIM-FSP-0000144,Direct,Coastal Group,Mpumalanga,1,N/A
+STI-0000145,INT000145,Lwazi Mabena Brokers,SIM-FSP-0000145,Bank Assurance,,Free State,N,N/A
+STI-0000146,INT000146,Zanele Zulu Brokers,SIM-FSP-0000146,Bank-Assurance,,Mpumalanga,Y,NULL
+STI-0000147,INT000147,Nomsa Mabena Brokers,SIM-FSP-0000147,Bank Assurance,Metro Network,Eastern Cape,Yes,N/A
+STI-0000148,INT000148,Fatima Ndlovu Brokers,SIM-FSP-0000148,Bank-Assurance,Coastal Group,Mpumalanga,1,N/A
+STI-0000149,INT000149,Musa Williams Brokers,SIM-FSP-0000149,Broker,,Free State,N,N/A
+STI-0000150,INT000150,Thandi Khumalo Brokers,SIM-FSP-0000150,Broker,,Western Cape,Yes,2021-12-12
+STI-0000151,INT000151,Peter Zulu Brokers,SIM-FSP-0000151,Broker,,Gauteng,Y,23/11/2021
+STI-0000152,INT000152,Musa Zulu Brokers,SIM-FSP-0000152,Broker,Metro Network,Western Cape,Yes,N/A
+STI-0000153,INT000153,Ayanda Botha Brokers,SIM-FSP-0000153,BROKER,,Free State,1,2023-12-08
+STI-0000154,INT000154,Nomsa van der Merwe Brokers,SIM-FSP-0000154,Bank Assurance,Independent,Western Cape,Yes,
+STI-0000155,INT000155,Fatima Nkosi Brokers,SIM-FSP-0000155,Bank-Assurance,,Eastern Cape,1,NULL
+STI-0000156,INT000156,Ayanda Khumalo Brokers,SIM-FSP-0000156,Bank Assurance,Coastal Group,Free State,1,
+STI-0000157,INT000157,Tshepo Botha Brokers,SIM-FSP-0000157,Direct,Metro Network,KwaZulu-Natal,Y,2020/10/17
+STI-0000158,INT000158,Ayanda Ndlovu Brokers,SIM-FSP-0000158,Broker,National Broker Group,Western Cape,Active,
+STI-0000159,INT000159,Neo Pillay Brokers,SIM-FSP-0000159,Bank-Assurance,Independent,Gauteng,N,N/A
+STI-0000160,INT000160,Sipho Dlamini Brokers,SIM-FSP-0000160,Broker,National Broker Group,KwaZulu-Natal,Active,05-19-2023
+STI-0000161,INT000161,Tshepo Pillay Brokers,SIM-FSP-0000161,Bank-Assurance,National Broker Group,Mpumalanga,Active,2020/11/13
+STI-0000162,INT000162,Peter Ndlovu Brokers,SIM-FSP-0000162,Bank-Assurance,National Broker Group,Eastern Cape,Y,
+STI-0000163,INT000163,Portia Sithole Brokers,SIM-FSP-0000163,Broker,Metro Network,North West,Yes,NULL
+STI-0000164,INT000164,Zanele Adams Brokers,SIM-FSP-0000134,Direct,Independent,Free State,Active,
+STI-0000165,INT000165,Lwazi Botha Brokers,SIM-FSP-0000165,Bank-Assurance,,Mpumalanga,N,11-17-2022
+STI-0000166,INT000166,Naledi Mokoena Brokers,SIM-FSP-0000166,Broker,Independent,North West,Yes,NULL
+STI-0000167,INT000167,Kabelo Molefe Brokers,SIM-FSP-0000167,Bank Assurance,Coastal Group,Gauteng,Y,
+STI-0000168,INT000168,Kabelo Pillay Brokers,SIM-FSP-0000168,BROKER,Metro Network,Limpopo,Active,08-25-2022
+STI-0000169,INT000169,Brian van der Merwe Brokers,SIM-FSP-0000169,Direct,Metro Network,Western Cape,Active,2023-11-30
+STI-0000170,INT000170,Keitumetse van der Merwe Brokers,SIM-FSP-0000170,Bank Assurance,Metro Network,Eastern Cape,Active,
+STI-0000171,INT000171,Grace Ndlovu Brokers,SIM-FSP-0000171,Direct,,KwaZulu-Natal,Yes,
+STI-0000172,INT000172,Neo Molefe Brokers,SIM-FSP-0000172,Bank Assurance,Metro Network,North West,Active,2025/08/07
+STI-0000173,INT000173,Lerato Khumalo Brokers,SIM-FSP-0000173,Broker,Metro Network,KwaZulu-Natal,1,NULL
+STI-0000174,INT000174,Kabelo Pillay Brokers,SIM-FSP-0000174,Direct,Coastal Group,KwaZulu-Natal,1,NULL
+STI-0000175,INT000175,Musa Ndlovu Brokers,SIM-FSP-0000175,Broker,Independent,Gauteng,Active,07-24-2022
+STI-0000176,INT000176,Nomsa Smith Brokers,SIM-FSP-0000176,Bank-Assurance,,Mpumalanga,Active,NULL
+STI-0000177,INT000177,Samuel Maseko Brokers,SIM-FSP-0000177,Broker,Metro Network,Northern Cape,Yes,N/A
+STI-0000178,INT000178,Keitumetse Maseko Brokers,SIM-FSP-0000178,Bank-Assurance,Independent,Western Cape,Y,NULL
+STI-0000179,INT000179,Lerato Mokoena Brokers,SIM-FSP-0000179,Direct,Coastal Group,Northern Cape,N,
+STI-0000180,INT000180,Samuel Ndlovu Brokers,SIM-FSP-0000180,Direct,,North West,N,N/A
+STI-0000181,INT000181,David Khumalo Brokers,SIM-FSP-0000181,Broker,Metro Network,North West,1,
+STI-0000182,INT000182,Peter van der Merwe Brokers,SIM-FSP-0000182,Bank-Assurance,,Eastern Cape,Active,NULL
+STI-0000183,INT000183,Neo Ndlovu Brokers,SIM-FSP-0000183,Bank Assurance,Independent,Free State,1,
+STI-0000184,INT000184,David Molefe Brokers,SIM-FSP-0000184,Bank Assurance,Independent,Eastern Cape,Y,
+STI-0000185,INT000185,Amina Mthembu Brokers,SIM-FSP-0000185,Broker,Independent,Western Cape,Yes,N/A
+STI-0000186,INT000186,Grace Adams Brokers,SIM-FSP-0000186,BROKER,National Broker Group,Limpopo,1,N/A
+STI-0000187,INT000187,Tshepo Jacobs Brokers,SIM-FSP-0000187,Bank Assurance,Metro Network,Mpumalanga,Y,
+STI-0000188,INT000188,Peter Maseko Brokers,SIM-FSP-0000166,Broker,National Broker Group,Mpumalanga,Y,03/04/2020
+STI-0000189,INT000189,Lwazi Mabena Brokers,SIM-FSP-0000189,BROKER,,Mpumalanga,Y,NULL
+STI-0000190,INT000190,Kabelo Zulu Brokers,SIM-FSP-0000190,Broker,National Broker Group,Mpumalanga,N,N/A
+STI-0000191,INT000191,Nandi Dlamini Brokers,SIM-FSP-0000191,BROKER,Coastal Group,Free State,Active,2024-08-18
+STI-0000192,INT000192,Fatima Mabena Brokers,SIM-FSP-0000192,Bank Assurance,Metro Network,Eastern Cape,1,N/A
+STI-0000193,INT000193,Peter Mthembu Brokers,SIM-FSP-0000193,BROKER,Coastal Group,Gauteng,1,
+STI-0000194,INT000194,Brian Adams Brokers,SIM-FSP-0000194,Direct,Metro Network,North West,Yes,
+STI-0000195,INT000195,Amina Ndlovu Brokers,SIM-FSP-0000195,Broker,Coastal Group,Mpumalanga,Yes,03-23-2021
+STI-0000196,INT000196,Nandi Molefe Brokers,SIM-FSP-0000196,Broker,,Limpopo,Y,N/A
+STI-0000197,INT000197,Amina Ndlovu Brokers,SIM-FSP-0000197,Bank-Assurance,,KwaZulu-Natal,Active,2021-02-17
+STI-0000198,INT000198,Lwazi Ndlovu Brokers,SIM-FSP-0000198,Bank Assurance,,Northern Cape,N,NULL
+STI-0000199,INT000199,Sipho Mokoena Brokers,SIM-FSP-0000199,Direct,Metro Network,North West,N,N/A
+STI-0000200,INT000200,Nandi Khumalo Brokers,SIM-FSP-0000200,BROKER,,Limpopo,Y,N/A
+STI-0000201,INT000201,Daniel Smith Brokers,SIM-FSP-0000201,Direct,Metro Network,Free State,Active,2023-10-16
+STI-0000202,INT000202,Grace Mahlangu Brokers,SIM-FSP-0000202,Bank Assurance,Metro Network,Eastern Cape,Y,NULL
+STI-0000203,INT000203,Zanele Zulu Brokers,SIM-FSP-0000203,NULL,Metro Network,KwaZulu-Natal,1,27/10/2022
+STI-0000204,INT000204,Grace Jacobs Brokers,SIM-FSP-0000204,BROKER,Independent,Gauteng,Yes,
+STI-0000205,INT000205,Keitumetse Maseko Brokers,SIM-FSP-0000205,Direct,Coastal Group,Eastern Cape,N,
+STI-0000206,INT000206,Ayanda Adams Brokers,SIM-FSP-0000206,Bank-Assurance,,North West,Yes,N/A
+STI-0000207,INT000207,Amina Sithole Brokers,SIM-FSP-0000207,Broker,Independent,Gauteng,N,NULL
+STI-0000208,INT000208,Ayanda Zulu Brokers,SIM-FSP-0000208,Direct,Independent,KwaZulu-Natal,Y,2025-06-03
+STI-0000209,INT000209,Amina Adams Brokers,SIM-FSP-0000209,BROKER,Independent,Eastern Cape,1,
+STI-0000210,INT000210,Daniel Khumalo Brokers,SIM-FSP-0000210,Direct,National Broker Group,Gauteng,Yes,N/A
+STI-0000211,INT000211,Sipho Pillay Brokers,SIM-FSP-0000211,Direct,Metro Network,Free State,Y,2020-09-24
+STI-0000212,INT000212,Brian Botha Brokers,SIM-FSP-0000212,BROKER,,Eastern Cape,N,N/A
+STI-0000213,INT000213,Tshepo Smith Brokers,SIM-FSP-0000213,Broker,,Eastern Cape,Yes,N/A
+STI-0000214,INT000214,Samuel Botha Brokers,SIM-FSP-0000214,Direct,National Broker Group,Western Cape,Y,N/A
+STI-0000215,INT000215,Sipho Ndlovu Brokers,SIM-FSP-0000215,BROKER,National Broker Group,Gauteng,N,
+STI-0000216,INT000216,Amina Khumalo Brokers,NULL,Direct,National Broker Group,Limpopo,Active,
+STI-0000217,INT000217,Musa Smith Brokers,SIM-FSP-0000217,Broker,,Northern Cape,Yes,N/A
+STI-0000218,INT000218,Naledi Sithole Brokers,SIM-FSP-0000218,Direct,,Mpumalanga,1,N/A
+STI-0000219,INT000219,Samuel Khumalo Brokers,SIM-FSP-0000219,Bank Assurance,Metro Network,KwaZulu-Natal,Yes,N/A
+STI-0000220,INT000220,Fatima Mthembu Brokers,SIM-FSP-0000220,Broker,Metro Network,Northern Cape,N,
+STI-0000221,INT000221,Portia van der Merwe Brokers,SIM-FSP-0000171,Bank Assurance,National Broker Group,Eastern Cape,Active,29/01/2022
+STI-0000222,INT000222,Grace Nkosi Brokers,SIM-FSP-0000222,Bank Assurance,Metro Network,Gauteng,1,
+STI-0000223,INT000223,Zanele Adams Brokers,SIM-FSP-0000223,Bank Assurance,,Mpumalanga,N,2024-02-08
+STI-0000224,INT000224,Daniel Naidoo Brokers,SIM-FSP-0000224,BROKER,Independent,KwaZulu-Natal,Active,NULL
+STI-0000225,INT000225,Nandi Dlamini Brokers,SIM-FSP-0000225,Broker,National Broker Group,Eastern Cape,Active,NULL
+STI-0000226,INT000226,David Molefe Brokers,SIM-FSP-0000226,Broker,National Broker Group,Northern Cape,Yes,16/11/2025
+STI-0000227,INT000227,Sipho Khumalo Brokers,SIM-FSP-0000227,Direct,Independent,Limpopo,1,
+STI-0000228,INT000228,Naledi Naidoo Brokers,SIM-FSP-0000228,Broker,Coastal Group,Limpopo,Yes,N/A
+STI-0000229,INT000229,Peter Pillay Brokers,SIM-FSP-0000229,Broker,Coastal Group,Northern Cape,Yes,N/A
+STI-0000230,INT000230,Lerato Khumalo Brokers,SIM-FSP-0000230,Bank-Assurance,Independent,Limpopo,Yes,N/A
+STI-0000231,INT000231,Tshepo Mabena Brokers,SIM-FSP-0000231,NULL,National Broker Group,North West,1,NULL
+STI-0000232,INT000232,Musa Pillay Brokers,SIM-FSP-0000232,Bank-Assurance,Coastal Group,Gauteng,N,
+STI-0000233,INT000233,Fatima Ndlovu Brokers,SIM-FSP-0000233,Bank Assurance,,North West,Yes,
+STI-0000234,INT000234,Neo Smith Brokers,SIM-FSP-0000234,Direct,Coastal Group,Western Cape,Yes,N/A
+STI-0000235,INT000235,Samuel Mokoena Brokers,SIM-FSP-0000235,BROKER,National Broker Group,KwaZulu-Natal,Y,N/A
+STI-0000236,INT000236,Daniel Jacobs Brokers,SIM-FSP-0000236,BROKER,National Broker Group,Eastern Cape,Active,NULL
+STI-0000237,INT000237,Sipho Ndlovu Brokers,SIM-FSP-0000237,Broker,Coastal Group,Limpopo,Yes,
+STI-0000238,INT000238,Keitumetse van der Merwe Brokers,SIM-FSP-0000238,Broker,,KwaZulu-Natal,1,
+STI-0000239,INT000239,Keitumetse Adams Brokers,SIM-FSP-0000239,BROKER,National Broker Group,Free State,Y,NULL
+STI-0000240,INT000240,Peter Dlamini Brokers,SIM-FSP-0000240,Bank-Assurance,National Broker Group,Eastern Cape,Yes,NULL
+STI-0000241,INT000241,Nomsa Dlamini Brokers,SIM-FSP-0000241,Direct,Independent,Eastern Cape,1,10-22-2021
+STI-0000242,INT000242,Ayanda Williams Brokers,SIM-FSP-0000242,Bank-Assurance,,North West,N,NULL
+STI-0000243,INT000243,David Williams Brokers,SIM-FSP-0000243,Broker,Independent,Limpopo,Yes,NULL
+STI-0000244,INT000244,Peter Mokoena Brokers,SIM-FSP-0000244,Broker,National Broker Group,Eastern Cape,N,
+STI-0000245,INT000245,Naledi Sithole Brokers,SIM-FSP-0000245,Direct,National Broker Group,Western Cape,N,N/A
+STI-0000246,INT000246,Kabelo van der Merwe Brokers,SIM-FSP-0000246,Broker,National Broker Group,Eastern Cape,Active,
+STI-0000247,INT000247,Grace Mokoena Brokers,SIM-FSP-0000247,Direct,National Broker Group,Limpopo,Active,
+STI-0000248,INT000248,Zanele Mthembu Brokers,SIM-FSP-0000248,Direct,Coastal Group,Free State,Active,05-06-2025
+STI-0000249,INT000249,Samuel Botha Brokers,SIM-FSP-0000249,Direct,,KwaZulu-Natal,Active,2025-02-26
+STI-0000250,INT000250,Keitumetse Mokoena Brokers,SIM-FSP-0000250,Broker,Independent,Limpopo,N,NULL
+STI-0000251,INT000251,David Ndlovu Brokers,SIM-FSP-0000251,Direct,,Mpumalanga,Active,
+STI-0000252,INT000252,Tshepo Mahlangu Brokers,SIM-FSP-0000252,Broker,Metro Network,Eastern Cape,1,10/02/2021
+STI-0000253,INT000253,Keitumetse Ndlovu Brokers,SIM-FSP-0000253,Broker,Coastal Group,North West,N,
+STI-0000254,INT000254,David Williams Brokers,SIM-FSP-0000254,Broker,Coastal Group,Mpumalanga,Yes,02-04-2020
+STI-0000255,INT000255,Naledi Smith Brokers,SIM-FSP-0000255,Broker,Metro Network,KwaZulu-Natal,Active,NULL
+STI-0000256,INT000256,Tshepo Naidoo Brokers,SIM-FSP-0000256,Broker,Coastal Group,Mpumalanga,Y,N/A
+STI-0000257,INT000257,Zanele Zulu Brokers,SIM-FSP-0000257,Direct,Metro Network,Eastern Cape,1,
+STI-0000258,INT000258,Brian Mahlangu Brokers,SIM-FSP-0000258,NULL,,Limpopo,1,N/A
+STI-0000259,INT000259,Nandi Adams Brokers,SIM-FSP-0000259,Bank-Assurance,Independent,Western Cape,Active,
+STI-0000260,INT000260,David Ndlovu Brokers,SIM-FSP-0000260,Bank-Assurance,Metro Network,Mpumalanga,Y,N/A
+STI-0000261,INT000261,Mariam Smith Brokers,SIM-FSP-0000261,Bank-Assurance,,Mpumalanga,Active,
+STI-0000262,INT000262,Lwazi Williams Brokers,SIM-FSP-0000262,NULL,Coastal Group,Mpumalanga,N,
+STI-0000263,INT000263,Ayanda Molefe Brokers,SIM-FSP-0000263,Bank-Assurance,Metro Network,North West,Active,
+STI-0000264,INT000264,Keitumetse Jacobs Brokers,SIM-FSP-0000264,Direct,,Eastern Cape,N,05/05/2021
+STI-0000265,INT000265,Zanele Maseko Brokers,SIM-FSP-0000265,Direct,Independent,Western Cape,N,NULL
+STI-0000266,INT000266,Grace Pillay Brokers,SIM-FSP-0000266,Broker,National Broker Group,Free State,1,NULL
+STI-0000267,INT000267,Peter Dlamini Brokers,SIM-FSP-0000267,Bank Assurance,,Mpumalanga,Y,2023/06/11
+STI-0000268,INT000268,Fatima Maseko Brokers,SIM-FSP-0000268,Bank Assurance,National Broker Group,North West,Yes,23/05/2023
+STI-0000269,INT000269,Neo Mahlangu Brokers,SIM-FSP-0000269,Broker,Independent,Free State,Yes,27/03/2023
+STI-0000270,INT000270,Naledi Jacobs Brokers,SIM-FSP-0000270,Direct,Independent,KwaZulu-Natal,N,N/A
+STI-0000271,INT000271,Neo Mokoena Brokers,SIM-FSP-0000271,Direct,Independent,Western Cape,Yes,08/04/2022
+STI-0000272,INT000272,Portia Mokoena Brokers,SIM-FSP-0000272,Bank-Assurance,National Broker Group,KwaZulu-Natal,1,
+STI-0000273,INT000273,Keitumetse Molefe Brokers,SIM-FSP-0000273,Bank-Assurance,National Broker Group,KwaZulu-Natal,Active,NULL
+STI-0000274,INT000274,Neo Maseko Brokers,SIM-FSP-0000274,Bank-Assurance,Independent,Western Cape,1,N/A
+STI-0000275,INT000275,Peter Adams Brokers,SIM-FSP-0000275,Direct,,Limpopo,Yes,2025/07/06
+STI-0000276,INT000276,Ayanda Pillay Brokers,SIM-FSP-0000276,Bank-Assurance,Coastal Group,Limpopo,Y,17/04/2025
+STI-0000277,INT000277,Thandi Maseko Brokers,SIM-FSP-0000277,Broker,Metro Network,Limpopo,N,
+STI-0000278,INT000278,Thandi Khumalo Brokers,SIM-FSP-0000278,Direct,National Broker Group,Limpopo,Y,NULL
+STI-0000279,INT000279,Nomsa Mthembu Brokers,SIM-FSP-0000279,Bank Assurance,Metro Network,Free State,Y,
+STI-0000280,INT000280,Portia Ndlovu Brokers,SIM-FSP-0000280,BROKER,Coastal Group,Limpopo,Y,NULL
+STI-0000281,INT000281,David Sithole Brokers,SIM-FSP-0000281,Broker,Independent,Mpumalanga,Active,2023/01/24
+STI-0000282,INT000282,Neo Ndlovu Brokers,SIM-FSP-0000282,Broker,Independent,Northern Cape,Active,
+STI-0000283,INT000283,Portia Ndlovu Brokers,SIM-FSP-0000283,Broker,,Western Cape,1,08/06/2023
+STI-0000284,INT000284,Sipho Naidoo Brokers,SIM-FSP-0000284,Bank-Assurance,,North West,N,2025/11/18
+STI-0000285,INT000285,Daniel Williams Brokers,SIM-FSP-0000285,Bank Assurance,National Broker Group,Eastern Cape,Active,03-11-2021
+STI-0000286,INT000286,Kabelo Mabena Brokers,SIM-FSP-0000286,Bank-Assurance,,North West,1,NULL
+STI-0000287,INT000287,Nomsa Mabena Brokers,SIM-FSP-0000287,Direct,Coastal Group,KwaZulu-Natal,1,NULL
+STI-0000288,INT000288,Nomsa Jacobs Brokers,SIM-FSP-0000288,Broker,Metro Network,Northern Cape,Y,N/A
+STI-0000289,INT000289,Tshepo van der Merwe Brokers,SIM-FSP-0000289,Direct,Independent,Western Cape,Yes,N/A
+STI-0000290,INT000290,Fatima Pillay Brokers,SIM-FSP-0000290,Bank-Assurance,Independent,Gauteng,Active,NULL
+STI-0000291,INT000291,Nomsa Jacobs Brokers,SIM-FSP-0000291,BROKER,National Broker Group,Gauteng,N,NULL
+STI-0000292,INT000292,Zanele Nkosi Brokers,SIM-FSP-0000292,Broker,,Limpopo,N,02-12-2025
+STI-0000293,INT000293,Fatima Adams Brokers,SIM-FSP-0000293,BROKER,,Eastern Cape,Y,2023/05/13
+STI-0000294,INT000294,Lerato Botha Brokers,SIM-FSP-0000294,Broker,Independent,Western Cape,Yes,N/A
+STI-0000295,INT000295,Sipho Khumalo Brokers,SIM-FSP-0000295,Broker,,Limpopo,Y,10-13-2025
+STI-0000296,INT000296,Peter Williams Brokers,SIM-FSP-0000296,Bank-Assurance,Metro Network,Limpopo,Active,NULL
+STI-0000297,INT000297,Samuel Pillay Brokers,SIM-FSP-0000297,Bank-Assurance,National Broker Group,Gauteng,N,2023-02-12
+STI-0000298,INT000298,Brian Mahlangu Brokers,SIM-FSP-0000298,Broker,Coastal Group,Northern Cape,1,NULL
+STI-0000299,INT000299,Keitumetse Molefe Brokers,SIM-FSP-0000299,BROKER,Metro Network,Free State,Y,2025/07/04
+STI-0000300,INT000300,Nandi Zulu Brokers,SIM-FSP-0000300,Broker,National Broker Group,Limpopo,N,N/A
+STI-0000301,INT000301,Portia Mthembu Brokers,SIM-FSP-0000301,Bank Assurance,National Broker Group,Gauteng,Active,NULL
+STI-0000302,INT000302,Daniel Williams Brokers,,,National Broker Group,Limpopo,Active,NULL
+STI-0000303,INT000303,Neo Ndlovu Brokers,SIM-FSP-0000303,Direct,National Broker Group,Western Cape,Y,N/A
+STI-0000304,INT000304,Peter Molefe Brokers,SIM-FSP-0000304,BROKER,National Broker Group,Mpumalanga,Active,N/A
+STI-0000305,INT000305,Brian Maseko Brokers,SIM-FSP-0000305,Broker,Independent,Eastern Cape,1,
+STI-0000306,INT000306,Keitumetse Nkosi Brokers,SIM-FSP-0000306,Broker,Independent,North West,Yes,05/08/2020
+STI-0000307,INT000307,Naledi Dlamini Brokers,SIM-FSP-0000307,Direct,National Broker Group,KwaZulu-Natal,Yes,
+STI-0000308,INT000308,Fatima Nkosi Brokers,SIM-FSP-0000308,BROKER,Coastal Group,Gauteng,Y,N/A
+STI-0000309,INT000309,Zanele Naidoo Brokers,SIM-FSP-0000309,Broker,Independent,Mpumalanga,Active,
+STI-0000310,INT000310,Keitumetse Mabena Brokers,SIM-FSP-0000310,Direct,Metro Network,Western Cape,N,N/A
+STI-0000311,INT000311,Naledi Khumalo Brokers,SIM-FSP-0000311,Direct,Independent,KwaZulu-Natal,Yes,
+STI-0000312,INT000312,Neo Sithole Brokers,,Broker,National Broker Group,Western Cape,Y,NULL
+STI-0000313,INT000313,Samuel Jacobs Brokers,SIM-FSP-0000313,Bank-Assurance,National Broker Group,Limpopo,Yes,
+STI-0000314,INT000314,Peter Adams Brokers,SIM-FSP-0000314,Broker,Independent,Western Cape,Y,N/A
+STI-0000315,INT000315,Musa Adams Brokers,SIM-FSP-0000315,Bank Assurance,National Broker Group,Western Cape,Active,17/02/2021
+STI-0000316,INT000316,Mariam Sithole Brokers,SIM-FSP-0000316,Broker,,KwaZulu-Natal,N,NULL
+STI-0000317,INT000317,Nandi Naidoo Brokers,SIM-FSP-0000317,Bank-Assurance,Coastal Group,Western Cape,1,2022-10-30
+STI-0000318,INT000318,David Nkosi Brokers,SIM-FSP-0000318,Direct,Metro Network,North West,Active,05-02-2023
+STI-0000319,INT000319,Peter Zulu Brokers,SIM-FSP-0000319,BROKER,National Broker Group,KwaZulu-Natal,Active,NULL
+STI-0000320,INT000320,Zanele Dlamini Brokers,SIM-FSP-0000320,Bank Assurance,,Western Cape,N,27/02/2025
+STI-0000321,INT000321,Zanele Mokoena Brokers,SIM-FSP-0000321,Bank Assurance,Coastal Group,KwaZulu-Natal,Y,
+STI-0000322,INT000322,Amina Adams Brokers,SIM-FSP-0000322,Broker,Metro Network,Western Cape,Active,2021-11-10
+STI-0000323,INT000323,David Dlamini Brokers,SIM-FSP-0000323,Broker,,Mpumalanga,Y,2023-11-18
+STI-0000324,INT000324,Ayanda Naidoo Brokers,SIM-FSP-0000324,Bank-Assurance,Independent,Northern Cape,Y,N/A
+STI-0000325,INT000325,Samuel Mthembu Brokers,SIM-FSP-0000325,BROKER,Metro Network,Limpopo,N,11-19-2024
+STI-0000326,INT000326,Ayanda Mthembu Brokers,SIM-FSP-0000326,Broker,National Broker Group,Western Cape,N,N/A
+STI-0000327,INT000327,Sipho Nkosi Brokers,SIM-FSP-0000327,BROKER,National Broker Group,Mpumalanga,Active,N/A
+STI-0000328,INT000328,Zanele Khumalo Brokers,SIM-FSP-0000328,Broker,National Broker Group,Mpumalanga,N,
+STI-0000329,INT000329,Neo Botha Brokers,SIM-FSP-0000329,NULL,,Free State,Yes,N/A
+STI-0000330,INT000330,David van der Merwe Brokers,SIM-FSP-0000330,Broker,Metro Network,Eastern Cape,Yes,13/10/2022
+STI-0000331,INT000331,Naledi Sithole Brokers,SIM-FSP-0000331,Broker,Independent,Northern Cape,1,N/A
+STI-0000332,INT000332,Zanele Smith Brokers,SIM-FSP-0000332,Bank Assurance,Independent,Mpumalanga,Y,NULL
+STI-0000333,INT000333,Daniel Pillay Brokers,SIM-FSP-0000333,Broker,,Mpumalanga,Active,N/A
+STI-0000334,INT000334,Sipho Williams Brokers,SIM-FSP-0000334,BROKER,Independent,Mpumalanga,Yes,
+STI-0000335,INT000335,Naledi Maseko Brokers,NULL,Bank-Assurance,National Broker Group,Gauteng,Yes,N/A
+STI-0000336,INT000336,Neo Mahlangu Brokers,N/A,Broker,Coastal Group,Western Cape,Active,2021-12-21
+STI-0000337,INT000337,Kabelo Williams Brokers,SIM-FSP-0000337,Bank-Assurance,Independent,Northern Cape,1,2025/09/10
+STI-0000338,INT000338,Daniel Molefe Brokers,SIM-FSP-0000338,Broker,Independent,Northern Cape,Active,N/A
+STI-0000339,INT000339,Lwazi Mthembu Brokers,SIM-FSP-0000339,Bank-Assurance,Coastal Group,Free State,Yes,
+STI-0000340,INT000340,Amina Khumalo Brokers,SIM-FSP-0000340,Broker,Metro Network,Northern Cape,Y,NULL
+STI-0000341,INT000341,Musa Mokoena Brokers,SIM-FSP-0000341,Broker,,Mpumalanga,Active,N/A
+STI-0000342,INT000342,Thandi Zulu Brokers,SIM-FSP-0000342,Bank Assurance,,Mpumalanga,N,
+STI-0000343,INT000343,Lerato Mthembu Brokers,SIM-FSP-0000343,Broker,Coastal Group,Free State,Yes,NULL
+STI-0000344,INT000344,Thandi Mokoena Brokers,SIM-FSP-0000344,Bank-Assurance,,KwaZulu-Natal,N,NULL
+STI-0000345,INT000345,Mariam van der Merwe Brokers,SIM-FSP-0000007,Broker,Coastal Group,Limpopo,N,NULL
+STI-0000346,INT000346,David Jacobs Brokers,SIM-FSP-0000346,Bank-Assurance,Coastal Group,Mpumalanga,N,2021/07/25
+STI-0000347,INT000347,Nomsa Maseko Brokers,SIM-FSP-0000347,Bank Assurance,,Eastern Cape,1,NULL
+STI-0000348,INT000348,Keitumetse Khumalo Brokers,SIM-FSP-0000348,Broker,Metro Network,Free State,Yes,
+STI-0000349,INT000349,Sipho Pillay Brokers,SIM-FSP-0000349,N/A,Independent,Free State,Active,NULL
+STI-0000350,INT000350,Samuel Molefe Brokers,SIM-FSP-0000350,Bank-Assurance,Independent,Mpumalanga,Active,NULL
+STI-0000351,INT000351,Fatima Sithole Brokers,SIM-FSP-0000351,Broker,Coastal Group,Mpumalanga,Yes,N/A
+STI-0000352,INT000352,Portia Zulu Brokers,SIM-FSP-0000352,Direct,National Broker Group,KwaZulu-Natal,Active,
+STI-0000353,INT000353,Portia Smith Brokers,SIM-FSP-0000353,Bank Assurance,Independent,North West,1,N/A
+STI-0000354,INT000354,Tshepo Sithole Brokers,SIM-FSP-0000354,Bank Assurance,Independent,North West,Y,2022-11-09
+STI-0000355,INT000355,Mariam Mthembu Brokers,SIM-FSP-0000355,NULL,Independent,Limpopo,Y,N/A
+STI-0000356,INT000356,Fatima Khumalo Brokers,SIM-FSP-0000356,Broker,,Limpopo,Yes,NULL
+STI-0000357,INT000357,Portia Mabena Brokers,SIM-FSP-0000357,Bank Assurance,Metro Network,Free State,Active,NULL
+STI-0000358,INT000358,Sipho Adams Brokers,SIM-FSP-0000358,,Independent,Limpopo,Yes,N/A
+STI-0000359,INT000359,Nandi Botha Brokers,SIM-FSP-0000359,BROKER,Independent,Free State,N,29/10/2021
+STI-0000360,INT000360,Brian Pillay Brokers,SIM-FSP-0000360,Direct,,Free State,Active,NULL
+STI-0000361,INT000361,Naledi Botha Brokers,SIM-FSP-0000361,BROKER,Coastal Group,Mpumalanga,Yes,17/04/2020
+STI-0000362,INT000362,Fatima van der Merwe Brokers,SIM-FSP-0000362,Broker,Coastal Group,Eastern Cape,Yes,N/A
+STI-0000363,INT000363,Amina Mabena Brokers,SIM-FSP-0000363,BROKER,,Free State,Y,N/A
+STI-0000364,INT000364,Amina Nkosi Brokers,SIM-FSP-0000364,Direct,,Western Cape,1,11-25-2025
+STI-0000365,INT000365,David Molefe Brokers,SIM-FSP-0000365,Bank Assurance,Independent,Northern Cape,1,
+STI-0000366,INT000366,Portia Sithole Brokers,SIM-FSP-0000366,Broker,Independent,Eastern Cape,Active,NULL
+STI-0000367,INT000367,Naledi Williams Brokers,SIM-FSP-0000367,Direct,Metro Network,Limpopo,Active,N/A
+STI-0000368,INT000368,Nandi Williams Brokers,SIM-FSP-0000368,BROKER,National Broker Group,North West,Yes,
+STI-0000369,INT000369,Brian Mthembu Brokers,SIM-FSP-0000369,Bank Assurance,National Broker Group,Northern Cape,Active,N/A
+STI-0000370,INT000370,Sipho Jacobs Brokers,SIM-FSP-0000370,Broker,National Broker Group,Limpopo,N,N/A
+STI-0000371,INT000371,Daniel Jacobs Brokers,SIM-FSP-0000371,Bank Assurance,National Broker Group,North West,Yes,NULL
+STI-0000372,INT000372,Musa Botha Brokers,SIM-FSP-0000372,BROKER,National Broker Group,Mpumalanga,1,2024/03/23
+STI-0000373,INT000373,Keitumetse Nkosi Brokers,SIM-FSP-0000373,BROKER,National Broker Group,Free State,Y,09/05/2022
+STI-0000374,INT000374,Peter Pillay Brokers,SIM-FSP-0000374,Bank Assurance,Metro Network,Northern Cape,Active,
+STI-0000375,INT000375,Lerato Maseko Brokers,SIM-FSP-0000375,Bank Assurance,Metro Network,North West,Yes,NULL
+STI-0000376,INT000376,Lwazi Sithole Brokers,SIM-FSP-0000376,Bank-Assurance,Metro Network,Free State,Yes,
+STI-0000377,INT000377,Neo Jacobs Brokers,SIM-FSP-0000377,Direct,,Gauteng,1,30/09/2025
+STI-0000378,INT000378,Musa Dlamini Brokers,SIM-FSP-0000378,Bank-Assurance,Independent,Eastern Cape,1,N/A
+STI-0000379,INT000379,Lerato Khumalo Brokers,SIM-FSP-0000379,Broker,,Free State,Y,NULL
+STI-0000380,INT000380,Sipho Pillay Brokers,SIM-FSP-0000380,Direct,,North West,Active,NULL
+STI-0000381,INT000381,Mariam Ndlovu Brokers,SIM-FSP-0000381,Direct,Independent,Free State,Yes,2022-07-06
+STI-0000382,INT000382,Lwazi Zulu Brokers,SIM-FSP-0000382,Bank-Assurance,,North West,Yes,N/A
+STI-0000383,INT000383,Ayanda Jacobs Brokers,SIM-FSP-0000383,Bank-Assurance,,Eastern Cape,Y,NULL
+STI-0000384,INT000384,Lwazi Mahlangu Brokers,SIM-FSP-0000384,Direct,Independent,KwaZulu-Natal,Y,31/03/2022
+STI-0000385,INT000385,Lerato Naidoo Brokers,SIM-FSP-0000385,Broker,Metro Network,Northern Cape,Y,N/A
+STI-0000386,INT000386,David Naidoo Brokers,SIM-FSP-0000386,Broker,,Limpopo,N,NULL
+STI-0000387,INT000387,Nandi Mahlangu Brokers,SIM-FSP-0000387,Direct,Independent,Northern Cape,1,N/A
+STI-0000388,INT000388,Samuel Nkosi Brokers,SIM-FSP-0000388,Direct,Independent,Eastern Cape,N,2021/05/14
+STI-0000389,INT000389,Keitumetse Ndlovu Brokers,SIM-FSP-0000389,Bank-Assurance,,Mpumalanga,Y,01-04-2020
+STI-0000390,INT000390,Lerato van der Merwe Brokers,SIM-FSP-0000390,Broker,Metro Network,North West,1,
+STI-0000391,INT000391,Lwazi Mahlangu Brokers,SIM-FSP-0000391,Direct,Coastal Group,Eastern Cape,1,
+STI-0000392,INT000392,Peter Mthembu Brokers,SIM-FSP-0000392,Bank-Assurance,Metro Network,Western Cape,Active,NULL
+STI-0000393,INT000393,Ayanda Smith Brokers,SIM-FSP-0000393,Broker,Coastal Group,Gauteng,1,NULL
+STI-0000394,INT000394,Neo Mthembu Brokers,SIM-FSP-0000394,Direct,Coastal Group,Limpopo,1,NULL
+STI-0000395,INT000395,Naledi van der Merwe Brokers,SIM-FSP-0000395,Bank Assurance,Coastal Group,Free State,Yes,
+STI-0000396,INT000396,Ayanda Botha Brokers,SIM-FSP-0000396,Broker,National Broker Group,KwaZulu-Natal,1,
+STI-0000397,INT000397,Nandi Mthembu Brokers,SIM-FSP-0000397,Bank Assurance,Coastal Group,Gauteng,Active,NULL
+STI-0000398,INT000398,Lwazi Naidoo Brokers,SIM-FSP-0000398,Bank Assurance,National Broker Group,Northern Cape,Active,2020-02-16
+STI-0000399,INT000399,Peter Mthembu Brokers,SIM-FSP-0000399,Broker,Coastal Group,North West,Y,N/A
+STI-0000400,INT000400,Kabelo Mokoena Brokers,SIM-FSP-0000400,BROKER,National Broker Group,Limpopo,Y,15/11/2020
+STI-0000401,INT000401,Mariam van der Merwe Brokers,SIM-FSP-0000401,Bank-Assurance,,Gauteng,Yes,
+STI-0000402,INT000402,Musa Mthembu Brokers,SIM-FSP-0000402,Bank-Assurance,Metro Network,Western Cape,N,N/A
+STI-0000403,INT000403,Sipho Mahlangu Brokers,SIM-FSP-0000403,Broker,Coastal Group,KwaZulu-Natal,Active,N/A
+STI-0000404,INT000404,Lwazi Naidoo Brokers,SIM-FSP-0000404,Broker,Coastal Group,North West,N,12/07/2023
+STI-0000405,INT000405,Samuel Pillay Brokers,SIM-FSP-0000405,BROKER,Independent,Free State,1,N/A
+STI-0000406,INT000406,Neo Maseko Brokers,SIM-FSP-0000406,N/A,National Broker Group,Mpumalanga,Active,NULL
+STI-0000407,INT000407,Grace Naidoo Brokers,SIM-FSP-0000407,Broker,,North West,N,NULL
+STI-0000408,INT000408,Peter Jacobs Brokers,SIM-FSP-0000408,Bank Assurance,,Western Cape,Yes,
+STI-0000409,INT000409,Samuel Dlamini Brokers,SIM-FSP-0000409,Bank Assurance,National Broker Group,Mpumalanga,Y,
+STI-0000410,INT000410,Peter Molefe Brokers,N/A,Bank-Assurance,Metro Network,Gauteng,Yes,N/A
+STI-0000411,INT000411,Mariam van der Merwe Brokers,SIM-FSP-0000411,BROKER,Independent,Gauteng,Y,N/A
+STI-0000412,INT000412,Neo Botha Brokers,SIM-FSP-0000412,Bank-Assurance,Independent,Western Cape,Y,N/A
+STI-0000413,INT000413,Nandi Ndlovu Brokers,SIM-FSP-0000413,,National Broker Group,Mpumalanga,Active,
+STI-0000414,INT000414,Zanele van der Merwe Brokers,SIM-FSP-0000414,Bank Assurance,National Broker Group,KwaZulu-Natal,N,
+STI-0000415,INT000415,Fatima Mahlangu Brokers,SIM-FSP-0000415,Broker,National Broker Group,Gauteng,N,NULL
+STI-0000416,INT000416,Musa Nkosi Brokers,SIM-FSP-0000416,Broker,,Mpumalanga,N,N/A
+STI-0000417,INT000417,Daniel Mahlangu Brokers,SIM-FSP-0000417,Direct,Coastal Group,Free State,Y,
+STI-0000418,INT000418,Sipho van der Merwe Brokers,SIM-FSP-0000418,Broker,National Broker Group,Mpumalanga,Y,
+STI-0000419,INT000419,Nomsa Williams Brokers,SIM-FSP-0000419,BROKER,National Broker Group,Free State,Y,2024/12/27
+STI-0000420,INT000420,Mariam Ndlovu Brokers,SIM-FSP-0000420,N/A,National Broker Group,KwaZulu-Natal,Yes,11/01/2022
+STI-0000421,INT000421,Thandi Mokoena Brokers,SIM-FSP-0000421,Bank-Assurance,National Broker Group,North West,Y,NULL
+STI-0000422,INT000422,Naledi Mthembu Brokers,SIM-FSP-0000422,Bank-Assurance,Metro Network,North West,1,2022-09-12
+STI-0000423,INT000423,Ayanda Smith Brokers,SIM-FSP-0000423,Broker,Metro Network,Western Cape,N,22/02/2023
+STI-0000424,INT000424,Naledi Adams Brokers,SIM-FSP-0000424,Broker,Independent,Eastern Cape,Yes,N/A
+STI-0000425,INT000425,Ayanda Maseko Brokers,SIM-FSP-0000425,BROKER,,North West,Yes,
+STI-0000426,INT000426,Musa Maseko Brokers,SIM-FSP-0000426,Bank Assurance,Metro Network,Northern Cape,Active,N/A
+STI-0000427,INT000427,Keitumetse Adams Brokers,SIM-FSP-0000427,Bank-Assurance,Independent,Mpumalanga,N,2025-08-16
+STI-0000428,INT000428,Peter Maseko Brokers,SIM-FSP-0000428,BROKER,,Western Cape,Active,23/01/2021
+STI-0000429,INT000429,Mariam Zulu Brokers,SIM-FSP-0000429,Bank-Assurance,Coastal Group,Western Cape,1,
+STI-0000430,INT000430,Lerato Pillay Brokers,SIM-FSP-0000430,Bank Assurance,National Broker Group,North West,1,
+STI-0000431,INT000431,Keitumetse Williams Brokers,SIM-FSP-0000431,Broker,National Broker Group,KwaZulu-Natal,1,
+STI-0000432,INT000432,Nandi Smith Brokers,SIM-FSP-0000432,Direct,Metro Network,Free State,N,NULL
+STI-0000433,INT000433,Neo Khumalo Brokers,SIM-FSP-0000433,Bank-Assurance,Coastal Group,Eastern Cape,Y,NULL
+STI-0000434,INT000434,Samuel Jacobs Brokers,SIM-FSP-0000434,Broker,Coastal Group,Eastern Cape,1,
+STI-0000435,INT000435,Brian van der Merwe Brokers,SIM-FSP-0000435,BROKER,Coastal Group,Northern Cape,Active,NULL
+STI-0000436,INT000436,Portia Ndlovu Brokers,SIM-FSP-0000365,Bank-Assurance,Metro Network,Gauteng,Active,NULL
+STI-0000437,INT000437,Fatima Sithole Brokers,SIM-FSP-0000437,BROKER,Independent,North West,Active,NULL
+STI-0000438,INT000438,Portia Ndlovu Brokers,SIM-FSP-0000438,Bank Assurance,National Broker Group,Mpumalanga,Yes,N/A
+STI-0000439,INT000439,Nomsa Adams Brokers,SIM-FSP-0000439,,Metro Network,Western Cape,Active,2023-06-25
+STI-0000440,INT000440,Fatima Mabena Brokers,SIM-FSP-0000440,Direct,Independent,North West,Yes,NULL
+STI-0000441,INT000441,Grace Naidoo Brokers,SIM-FSP-0000441,Bank-Assurance,Coastal Group,North West,Active,NULL
+STI-0000442,INT000442,Brian Molefe Brokers,SIM-FSP-0000442,Broker,Metro Network,Mpumalanga,1,NULL
+STI-0000443,INT000443,Kabelo Sithole Brokers,SIM-FSP-0000443,Bank Assurance,Independent,Eastern Cape,N,
+STI-0000444,INT000444,Fatima Maseko Brokers,SIM-FSP-0000444,Broker,Metro Network,Mpumalanga,Yes,
+STI-0000445,INT000445,Nandi Botha Brokers,SIM-FSP-0000445,Direct,,Eastern Cape,Y,NULL
+STI-0000446,INT000446,David van der Merwe Brokers,SIM-FSP-0000446,Broker,Coastal Group,KwaZulu-Natal,Y,2024/11/27
+STI-0000447,INT000447,Lwazi Mthembu Brokers,SIM-FSP-0000447,Direct,National Broker Group,Gauteng,1,2022/04/18
+STI-0000448,INT000448,Peter Maseko Brokers,SIM-FSP-0000448,N/A,National Broker Group,Limpopo,Yes,
+STI-0000449,INT000449,Peter Pillay Brokers,SIM-FSP-0000449,Broker,National Broker Group,Northern Cape,Y,2023-12-19
+STI-0000450,INT000450,Neo Sithole Brokers,SIM-FSP-0000450,BROKER,National Broker Group,KwaZulu-Natal,Y,
+STI-0000451,INT000451,Musa Jacobs Brokers,SIM-FSP-0000451,BROKER,,Limpopo,Y,07-05-2020
+STI-0000452,INT000452,Amina Jacobs Brokers,SIM-FSP-0000452,Bank Assurance,,Limpopo,Y,NULL
+STI-0000453,INT000453,Zanele Mahlangu Brokers,SIM-FSP-0000453,Broker,Coastal Group,North West,1,
+STI-0000454,INT000454,Brian Molefe Brokers,SIM-FSP-0000454,Broker,National Broker Group,Limpopo,1,N/A
+STI-0000455,INT000455,Lerato van der Merwe Brokers,SIM-FSP-0000455,BROKER,Independent,Western Cape,Y,
+STI-0000456,INT000456,Mariam Smith Brokers,SIM-FSP-0000456,Bank Assurance,Independent,Mpumalanga,N,N/A
+STI-0000457,INT000457,Zanele Mokoena Brokers,SIM-FSP-0000457,Bank Assurance,Metro Network,Mpumalanga,Y,NULL
+STI-0000458,INT000458,Amina Adams Brokers,SIM-FSP-0000458,BROKER,Metro Network,Eastern Cape,Yes,
+STI-0000459,INT000459,Musa Dlamini Brokers,SIM-FSP-0000459,BROKER,Coastal Group,KwaZulu-Natal,Yes,2021/12/30
+STI-0000460,INT000460,Sipho van der Merwe Brokers,SIM-FSP-0000460,Broker,Independent,Limpopo,Yes,N/A
+STI-0000461,INT000461,Fatima Botha Brokers,SIM-FSP-0000461,BROKER,Coastal Group,Western Cape,Y,
+STI-0000462,INT000462,Zanele Naidoo Brokers,SIM-FSP-0000462,Direct,National Broker Group,Gauteng,Yes,
+STI-0000463,INT000463,Samuel Maseko Brokers,SIM-FSP-0000463,BROKER,,Eastern Cape,Y,2021-01-15
+STI-0000464,INT000464,Zanele Sithole Brokers,SIM-FSP-0000464,Broker,National Broker Group,North West,1,NULL
+STI-0000465,INT000465,Samuel Sithole Brokers,SIM-FSP-0000465,Direct,Metro Network,North West,N,
+STI-0000466,INT000466,Zanele Smith Brokers,SIM-FSP-0000466,Direct,,Gauteng,Y,
+STI-0000467,INT000467,Peter Jacobs Brokers,SIM-FSP-0000467,Bank Assurance,Independent,KwaZulu-Natal,Yes,NULL
+STI-0000468,INT000468,Tshepo Pillay Brokers,SIM-FSP-0000468,Bank Assurance,Coastal Group,North West,Y,N/A
+STI-0000469,INT000469,Lwazi Smith Brokers,SIM-FSP-0000469,Bank-Assurance,Metro Network,KwaZulu-Natal,Active,N/A
+STI-0000470,INT000470,Musa Mokoena Brokers,SIM-FSP-0000470,Direct,Coastal Group,Northern Cape,Y,10-18-2022
+STI-0000471,INT000471,Nomsa Khumalo Brokers,SIM-FSP-0000471,Direct,Metro Network,Northern Cape,Y,NULL
+STI-0000472,INT000472,Zanele Williams Brokers,SIM-FSP-0000472,Bank-Assurance,Metro Network,Western Cape,Active,NULL
+STI-0000473,INT000473,Neo Molefe Brokers,SIM-FSP-0000473,BROKER,Metro Network,Eastern Cape,1,NULL
+STI-0000474,INT000474,Musa Mthembu Brokers,SIM-FSP-0000474,Bank-Assurance,Independent,Gauteng,N,N/A
+STI-0000475,INT000475,Kabelo Molefe Brokers,SIM-FSP-0000475,Broker,National Broker Group,Free State,Yes,
+STI-0000476,INT000476,Nandi Jacobs Brokers,SIM-FSP-0000476,Direct,Metro Network,Gauteng,1,02-11-2023
+STI-0000477,INT000477,Peter Adams Brokers,SIM-FSP-0000477,Bank Assurance,Independent,North West,N,NULL
+STI-0000478,INT000478,Thandi Jacobs Brokers,SIM-FSP-0000478,Broker,Metro Network,North West,1,N/A
+STI-0000479,INT000479,Amina Adams Brokers,SIM-FSP-0000479,Bank Assurance,Metro Network,Northern Cape,Active,01/07/2022
+STI-0000480,INT000480,Musa Ndlovu Brokers,SIM-FSP-0000480,Broker,Metro Network,Mpumalanga,Y,NULL
+STI-0000481,INT000481,Lwazi Mahlangu Brokers,SIM-FSP-0000481,Broker,Metro Network,Free State,Y,NULL
+STI-0000482,INT000482,Mariam Naidoo Brokers,SIM-FSP-0000482,Bank-Assurance,National Broker Group,Eastern Cape,1,
+STI-0000483,INT000483,Fatima Mthembu Brokers,SIM-FSP-0000483,Broker,Metro Network,Limpopo,Active,2023-06-07
+STI-0000484,INT000484,Peter Mthembu Brokers,SIM-FSP-0000484,Bank Assurance,,Northern Cape,Yes,NULL
+STI-0000485,INT000485,Portia Khumalo Brokers,SIM-FSP-0000485,Direct,Metro Network,Northern Cape,N,27/01/2022
+STI-0000486,INT000486,Lerato Jacobs Brokers,SIM-FSP-0000486,Bank Assurance,Metro Network,Gauteng,Active,N/A
+STI-0000487,INT000487,David Mokoena Brokers,SIM-FSP-0000487,Broker,National Broker Group,Free State,N,N/A
+STI-0000488,INT000488,Fatima Zulu Brokers,SIM-FSP-0000068,BROKER,Coastal Group,Mpumalanga,1,
+STI-0000489,INT000489,Brian Ndlovu Brokers,SIM-FSP-0000489,Bank Assurance,,Limpopo,1,2023-10-12
+STI-0000490,INT000490,Amina Pillay Brokers,SIM-FSP-0000490,Bank Assurance,,Gauteng,Active,N/A
+STI-0000491,INT000491,Brian Smith Brokers,SIM-FSP-0000491,Broker,Coastal Group,Free State,N,NULL
+STI-0000492,INT000492,Naledi Dlamini Brokers,SIM-FSP-0000492,Bank-Assurance,Metro Network,Eastern Cape,1,
+STI-0000493,INT000493,Neo Williams Brokers,SIM-FSP-0000493,Broker,,Free State,1,N/A
+STI-0000494,INT000494,Naledi Mthembu Brokers,SIM-FSP-0000494,Bank-Assurance,National Broker Group,North West,N,2020/06/28
+STI-0000495,INT000495,Neo Molefe Brokers,SIM-FSP-0000495,BROKER,National Broker Group,Northern Cape,Yes,
+STI-0000496,INT000496,Thandi Mabena Brokers,SIM-FSP-0000496,BROKER,Coastal Group,Free State,Y,2022-03-29
+STI-0000497,INT000497,Nandi Adams Brokers,SIM-FSP-0000497,Bank-Assurance,National Broker Group,North West,Y,
+STI-0000498,INT000498,Neo Mahlangu Brokers,SIM-FSP-0000498,BROKER,Metro Network,Gauteng,Active,21/11/2020
+STI-0000499,INT000499,Lerato Jacobs Brokers,SIM-FSP-0000499,Broker,,North West,N,2022/04/02
+STI-0000500,INT000500,Naledi Jacobs Brokers,SIM-FSP-0000500,Bank-Assurance,Metro Network,KwaZulu-Natal,Active,2020-02-01
+STI-0000501,INT000501,Musa Mahlangu Brokers,SIM-FSP-0000128,Broker,Independent,Mpumalanga,Yes,
+STI-0000502,INT000502,Ayanda Maseko Brokers,SIM-FSP-0000502,Broker,Metro Network,Free State,Y,
+STI-0000503,INT000503,Nandi Pillay Brokers,SIM-FSP-0000503,Bank Assurance,National Broker Group,Gauteng,Yes,01/12/2021
+STI-0000504,INT000504,Samuel Mahlangu Brokers,SIM-FSP-0000504,Direct,,Western Cape,N,N/A
+STI-0000505,INT000505,Sipho Dlamini Brokers,SIM-FSP-0000505,Bank Assurance,Metro Network,Free State,Y,N/A
+STI-0000506,INT000506,Sipho Khumalo Brokers,SIM-FSP-0000506,Broker,,Eastern Cape,Yes,N/A
+STI-0000507,INT000507,Musa Mthembu Brokers,SIM-FSP-0000507,Bank-Assurance,Independent,Gauteng,Active,N/A
+STI-0000508,INT000508,Nandi Ndlovu Brokers,SIM-FSP-0000508,Broker,Metro Network,Free State,Yes,N/A
+STI-0000509,INT000509,Lwazi Dlamini Brokers,SIM-FSP-0000509,Bank-Assurance,Metro Network,Free State,1,08/11/2022
+STI-0000510,INT000510,Kabelo Mokoena Brokers,SIM-FSP-0000510,Bank Assurance,,Western Cape,Yes,
+STI-0000511,INT000511,Grace Dlamini Brokers,SIM-FSP-0000511,BROKER,Metro Network,Mpumalanga,N,
+STI-0000512,INT000512,Amina Mokoena Brokers,SIM-FSP-0000512,Direct,,Western Cape,Y,N/A
+STI-0000513,INT000513,Naledi Pillay Brokers,SIM-FSP-0000513,Broker,Coastal Group,Northern Cape,Active,NULL
+STI-0000514,INT000514,Portia Khumalo Brokers,SIM-FSP-0000514,BROKER,Independent,Mpumalanga,Active,03/02/2025
+STI-0000515,INT000515,Thandi Maseko Brokers,SIM-FSP-0000515,Broker,,Northern Cape,N,06/09/2022
+STI-0000516,INT000516,Daniel Naidoo Brokers,,Bank Assurance,,Free State,N,
+STI-0000517,INT000517,Daniel Williams Brokers,SIM-FSP-0000517,Bank Assurance,Coastal Group,Northern Cape,Y,
+STI-0000518,INT000518,Thandi Pillay Brokers,SIM-FSP-0000518,Broker,,Limpopo,N,11-09-2024
+STI-0000519,INT000519,Tshepo Dlamini Brokers,SIM-FSP-0000519,BROKER,National Broker Group,Limpopo,1,02-24-2022
+STI-0000520,INT000520,Peter van der Merwe Brokers,SIM-FSP-0000520,Broker,National Broker Group,Gauteng,Y,22/06/2022
+STI-0000521,INT000521,Samuel Williams Brokers,SIM-FSP-0000521,Bank Assurance,Coastal Group,KwaZulu-Natal,Yes,N/A
+STI-0000522,INT000522,Peter Khumalo Brokers,SIM-FSP-0000522,Direct,Metro Network,Limpopo,N,
+STI-0000523,INT000523,Samuel Ndlovu Brokers,SIM-FSP-0000523,BROKER,Independent,Mpumalanga,Active,01-16-2024
+STI-0000524,INT000524,Lerato Naidoo Brokers,SIM-FSP-0000524,Broker,,Mpumalanga,Active,NULL
+STI-0000525,INT000525,Keitumetse Zulu Brokers,SIM-FSP-0000525,Bank Assurance,Metro Network,Western Cape,Y,2020-10-02
+STI-0000526,INT000526,Musa Mokoena Brokers,SIM-FSP-0000526,Bank-Assurance,,Western Cape,1,NULL
+STI-0000527,INT000527,Lwazi Mahlangu Brokers,SIM-FSP-0000527,Broker,Metro Network,Limpopo,Yes,
+STI-0000528,INT000528,Portia Mahlangu Brokers,SIM-FSP-0000528,Direct,,Limpopo,Yes,NULL
+STI-0000529,INT000529,David Zulu Brokers,SIM-FSP-0000529,Direct,National Broker Group,North West,Active,
+STI-0000530,INT000530,Nandi Zulu Brokers,SIM-FSP-0000530,BROKER,,Mpumalanga,Active,N/A
+STI-0000531,INT000531,Ayanda Dlamini Brokers,SIM-FSP-0000531,Direct,National Broker Group,Northern Cape,N,NULL
+STI-0000532,INT000532,Zanele Mthembu Brokers,SIM-FSP-0000532,Direct,,Free State,Y,N/A
+STI-0000533,INT000533,Samuel Mthembu Brokers,SIM-FSP-0000533,Direct,,Mpumalanga,Active,NULL
+STI-0000534,INT000534,Portia Naidoo Brokers,SIM-FSP-0000534,BROKER,National Broker Group,Northern Cape,Yes,07-22-2020
+STI-0000535,INT000535,Nomsa Nkosi Brokers,SIM-FSP-0000535,Direct,National Broker Group,Northern Cape,N,
+STI-0000536,INT000536,David Jacobs Brokers,SIM-FSP-0000536,Broker,National Broker Group,Northern Cape,1,
+STI-0000537,INT000537,Peter Mokoena Brokers,SIM-FSP-0000537,Direct,Coastal Group,Eastern Cape,1,N/A
+STI-0000538,INT000538,Grace Mthembu Brokers,SIM-FSP-0000538,Bank-Assurance,National Broker Group,Mpumalanga,N,2025-11-21
+STI-0000539,INT000539,Lerato Khumalo Brokers,SIM-FSP-0000539,Broker,Independent,Free State,Active,2025-07-17
+STI-0000540,INT000540,Amina Nkosi Brokers,SIM-FSP-0000540,Bank Assurance,,Limpopo,Active,N/A
+STI-0000541,INT000541,Sipho Adams Brokers,SIM-FSP-0000541,,National Broker Group,Gauteng,Yes,08-21-2021
+STI-0000542,INT000542,Tshepo Khumalo Brokers,SIM-FSP-0000542,BROKER,Metro Network,Mpumalanga,Yes,
+STI-0000543,INT000543,Nandi Adams Brokers,SIM-FSP-0000543,Bank Assurance,,Northern Cape,Yes,2024/05/06
+STI-0000544,INT000544,Peter Nkosi Brokers,,Broker,National Broker Group,Western Cape,Y,
+STI-0000545,INT000545,Portia Khumalo Brokers,SIM-FSP-0000545,Bank Assurance,,Eastern Cape,Yes,26/01/2022
+STI-0000546,INT000546,Nomsa Ndlovu Brokers,SIM-FSP-0000546,Bank Assurance,National Broker Group,Northern Cape,Yes,
+STI-0000547,INT000547,Ayanda Mthembu Brokers,SIM-FSP-0000122,Bank Assurance,,Mpumalanga,N,N/A
+STI-0000548,INT000548,Lwazi Botha Brokers,SIM-FSP-0000548,Broker,Metro Network,Mpumalanga,1,2022/03/23
+STI-0000549,INT000549,Naledi Molefe Brokers,SIM-FSP-0000549,Broker,Coastal Group,Free State,Yes,N/A
+STI-0000550,INT000550,Peter Naidoo Brokers,SIM-FSP-0000550,Bank-Assurance,,Gauteng,Y,04-28-2022
+STI-0000551,INT000551,Nandi Botha Brokers,SIM-FSP-0000551,Bank-Assurance,Metro Network,Eastern Cape,Active,01/02/2022
+STI-0000552,INT000552,Kabelo Adams Brokers,SIM-FSP-0000552,Broker,National Broker Group,Gauteng,1,
+STI-0000553,INT000553,Kabelo Ndlovu Brokers,SIM-FSP-0000553,Bank-Assurance,Independent,North West,Yes,NULL
+STI-0000554,INT000554,Neo Sithole Brokers,SIM-FSP-0000554,Bank-Assurance,,Eastern Cape,Y,
+STI-0000555,INT000555,Tshepo Naidoo Brokers,SIM-FSP-0000469,Broker,,North West,N,2022-09-14
+STI-0000556,INT000556,Samuel Nkosi Brokers,SIM-FSP-0000556,Broker,Coastal Group,North West,Yes,
+STI-0000557,INT000557,Lwazi Ndlovu Brokers,SIM-FSP-0000557,NULL,Independent,North West,Yes,
+STI-0000558,INT000558,Peter Mahlangu Brokers,SIM-FSP-0000558,Direct,Coastal Group,KwaZulu-Natal,N,N/A
+STI-0000559,INT000559,Fatima Mabena Brokers,SIM-FSP-0000559,,,Mpumalanga,1,2025-06-15
+STI-0000560,INT000560,David Dlamini Brokers,SIM-FSP-0000560,Direct,National Broker Group,Free State,1,
+STI-0000561,INT000561,Daniel Botha Brokers,SIM-FSP-0000561,Bank Assurance,Metro Network,Free State,Active,13/09/2021
+STI-0000562,INT000562,Daniel Sithole Brokers,SIM-FSP-0000562,N/A,Coastal Group,Limpopo,1,
+STI-0000563,INT000563,Brian Williams Brokers,N/A,BROKER,,Gauteng,Y,
+STI-0000564,INT000564,Sipho Mokoena Brokers,SIM-FSP-0000564,Bank Assurance,,Limpopo,Y,NULL
+STI-0000565,INT000565,Amina Botha Brokers,SIM-FSP-0000565,Broker,,KwaZulu-Natal,Y,N/A
+STI-0000566,INT000566,Nomsa Williams Brokers,SIM-FSP-0000566,Bank Assurance,Metro Network,Gauteng,1,
+STI-0000567,INT000567,Sipho Dlamini Brokers,SIM-FSP-0000567,Bank Assurance,Metro Network,Limpopo,Yes,
+STI-0000568,INT000568,Brian Mthembu Brokers,SIM-FSP-0000568,Broker,Metro Network,KwaZulu-Natal,Active,N/A
+STI-0000569,INT000569,Musa Sithole Brokers,SIM-FSP-0000569,Direct,National Broker Group,KwaZulu-Natal,Active,N/A
+STI-0000570,INT000570,Tshepo Smith Brokers,SIM-FSP-0000570,BROKER,Independent,Northern Cape,Y,N/A
+STI-0000571,INT000571,Lwazi Mabena Brokers,SIM-FSP-0000571,Bank-Assurance,National Broker Group,Eastern Cape,Yes,N/A
+STI-0000572,INT000572,Mariam Williams Brokers,SIM-FSP-0000572,Bank Assurance,,Limpopo,N,NULL
+STI-0000573,INT000573,David Mabena Brokers,SIM-FSP-0000573,Direct,,Eastern Cape,Yes,2022/09/05
+STI-0000574,INT000574,Brian Naidoo Brokers,SIM-FSP-0000574,Bank Assurance,Independent,Free State,Active,
+STI-0000575,INT000575,Neo Molefe Brokers,SIM-FSP-0000575,BROKER,Independent,Western Cape,N,
+STI-0000576,INT000576,Fatima Mahlangu Brokers,SIM-FSP-0000576,Broker,Coastal Group,KwaZulu-Natal,N,N/A
+STI-0000577,INT000577,Naledi Naidoo Brokers,SIM-FSP-0000577,BROKER,Coastal Group,KwaZulu-Natal,Y,
+STI-0000578,INT000578,Musa Dlamini Brokers,SIM-FSP-0000578,Direct,Independent,North West,Yes,NULL
+STI-0000579,INT000579,Lerato Mahlangu Brokers,SIM-FSP-0000579,BROKER,,Mpumalanga,Yes,2022-07-25
+STI-0000580,INT000580,Ayanda Naidoo Brokers,SIM-FSP-0000580,Broker,National Broker Group,Limpopo,N,16/03/2024
+STI-0000581,INT000581,Tshepo Maseko Brokers,SIM-FSP-0000581,Bank Assurance,National Broker Group,Gauteng,Y,
+STI-0000582,INT000582,Sipho Maseko Brokers,SIM-FSP-0000582,Bank Assurance,National Broker Group,Western Cape,Yes,N/A
+STI-0000583,INT000583,Lwazi Adams Brokers,SIM-FSP-0000583,Direct,,Northern Cape,1,2022-01-01
+STI-0000584,INT000584,Sipho Smith Brokers,SIM-FSP-0000584,Bank-Assurance,,Limpopo,Active,NULL
+STI-0000585,INT000585,Ayanda Adams Brokers,SIM-FSP-0000585,Broker,,North West,Active,2023/08/11
+STI-0000586,INT000586,Lwazi Khumalo Brokers,SIM-FSP-0000586,Broker,,Mpumalanga,Y,13/08/2022
+STI-0000587,INT000587,Naledi Jacobs Brokers,SIM-FSP-0000587,Broker,Metro Network,North West,N,
+STI-0000588,INT000588,Portia Mabena Brokers,SIM-FSP-0000588,Direct,National Broker Group,Northern Cape,Y,N/A
+STI-0000589,INT000589,Sipho Sithole Brokers,SIM-FSP-0000589,Direct,National Broker Group,KwaZulu-Natal,Active,04-02-2024
+STI-0000590,INT000590,Kabelo Naidoo Brokers,SIM-FSP-0000590,Broker,Metro Network,Free State,N,2022-06-11
+STI-0000591,INT000591,Grace Adams Brokers,SIM-FSP-0000591,Bank-Assurance,Metro Network,Western Cape,N,NULL
+STI-0000592,INT000592,Musa Khumalo Brokers,SIM-FSP-0000592,Broker,Coastal Group,Free State,Active,2024/06/25
+STI-0000593,INT000593,Naledi Mahlangu Brokers,SIM-FSP-0000593,Broker,Coastal Group,KwaZulu-Natal,Yes,
+STI-0000594,INT000594,Lwazi van der Merwe Brokers,SIM-FSP-0000594,Bank Assurance,Metro Network,Free State,N,
+STI-0000595,INT000595,Ayanda Mokoena Brokers,SIM-FSP-0000595,Bank-Assurance,National Broker Group,Western Cape,Active,NULL
+STI-0000596,INT000596,Nandi Mokoena Brokers,SIM-FSP-0000596,BROKER,Independent,Limpopo,Active,N/A
+STI-0000597,INT000597,Sipho van der Merwe Brokers,SIM-FSP-0000597,Bank Assurance,Metro Network,Limpopo,1,11-14-2024
+STI-0000598,INT000598,Fatima Mahlangu Brokers,SIM-FSP-0000573,Bank Assurance,National Broker Group,Northern Cape,Y,2022-08-08
+STI-0000599,INT000599,Kabelo Mahlangu Brokers,SIM-FSP-0000599,Bank Assurance,,Eastern Cape,Active,
+STI-0000600,INT000600,Zanele Maseko Brokers,SIM-FSP-0000564,Broker,Independent,North West,Active,14/11/2023
+STI-0000601,INT000601,David Jacobs Brokers,SIM-FSP-0000601,Broker,National Broker Group,Western Cape,Yes,N/A
+STI-0000602,INT000602,Zanele van der Merwe Brokers,SIM-FSP-0000602,Broker,Coastal Group,Gauteng,Y,N/A
+STI-0000603,INT000603,Nomsa Ndlovu Brokers,SIM-FSP-0000603,Bank-Assurance,National Broker Group,Northern Cape,N,NULL
+STI-0000604,INT000604,Kabelo Mthembu Brokers,NULL,Bank-Assurance,National Broker Group,KwaZulu-Natal,Y,2020-03-26
+STI-0000605,INT000605,Amina Khumalo Brokers,SIM-FSP-0000605,Bank Assurance,Coastal Group,Mpumalanga,1,
+STI-0000606,INT000606,Brian Nkosi Brokers,SIM-FSP-0000606,Broker,Coastal Group,Free State,1,NULL
+STI-0000607,INT000607,Naledi Dlamini Brokers,SIM-FSP-0000607,Direct,National Broker Group,North West,1,NULL
+STI-0000608,INT000608,David Naidoo Brokers,SIM-FSP-0000608,,National Broker Group,Northern Cape,Yes,
+STI-0000609,INT000609,Lerato Jacobs Brokers,SIM-FSP-0000609,Broker,Coastal Group,Western Cape,1,
+STI-0000610,INT000610,Portia Smith Brokers,SIM-FSP-0000610,Bank-Assurance,,Free State,Active,03-25-2022
+STI-0000611,INT000611,Daniel Molefe Brokers,SIM-FSP-0000611,Bank-Assurance,,Eastern Cape,N,
+STI-0000612,INT000612,Sipho Pillay Brokers,SIM-FSP-0000612,Bank Assurance,Metro Network,KwaZulu-Natal,1,N/A
+STI-0000613,INT000613,Neo van der Merwe Brokers,SIM-FSP-0000613,Bank Assurance,Coastal Group,KwaZulu-Natal,Y,2022/12/24
+STI-0000614,INT000614,Daniel Maseko Brokers,SIM-FSP-0000614,Bank Assurance,,Free State,1,N/A
+STI-0000615,INT000615,Zanele Mabena Brokers,SIM-FSP-0000615,BROKER,National Broker Group,Limpopo,Yes,05-24-2022
+STI-0000616,INT000616,Nandi Smith Brokers,SIM-FSP-0000616,Broker,Metro Network,KwaZulu-Natal,Y,NULL
+STI-0000617,INT000617,Musa Mahlangu Brokers,SIM-FSP-0000617,Broker,National Broker Group,KwaZulu-Natal,Yes,NULL
+STI-0000618,INT000618,Grace Mahlangu Brokers,SIM-FSP-0000618,Broker,Independent,Gauteng,Y,NULL
+STI-0000619,INT000619,Musa Jacobs Brokers,SIM-FSP-0000619,Direct,Independent,Limpopo,Yes,30/11/2021
+STI-0000620,INT000620,Musa Nkosi Brokers,SIM-FSP-0000620,Direct,,Northern Cape,Y,
+STI-0000621,INT000621,Portia Mahlangu Brokers,SIM-FSP-0000621,BROKER,Independent,North West,Active,N/A
+STI-0000622,INT000622,Lwazi Nkosi Brokers,SIM-FSP-0000622,Bank Assurance,Coastal Group,Gauteng,Y,
+STI-0000623,INT000623,Daniel Pillay Brokers,SIM-FSP-0000623,Broker,Metro Network,Mpumalanga,Yes,N/A
+STI-0000624,INT000624,Samuel Mabena Brokers,SIM-FSP-0000624,Broker,,Free State,Yes,N/A
+STI-0000625,INT000625,Portia Nkosi Brokers,SIM-FSP-0000625,Bank Assurance,Coastal Group,North West,Active,
+STI-0000626,INT000626,Samuel Smith Brokers,SIM-FSP-0000626,BROKER,National Broker Group,Western Cape,Y,N/A
+STI-0000627,INT000627,Musa Jacobs Brokers,SIM-FSP-0000627,Bank Assurance,Coastal Group,Limpopo,Active,
+STI-0000628,INT000628,Fatima Dlamini Brokers,SIM-FSP-0000628,Bank-Assurance,Metro Network,Western Cape,Yes,05-11-2021
+STI-0000629,INT000629,Samuel Khumalo Brokers,SIM-FSP-0000629,Broker,,Limpopo,1,
+STI-0000630,INT000630,Naledi Botha Brokers,SIM-FSP-0000630,Bank-Assurance,Metro Network,North West,Active,
+STI-0000631,INT000631,David Naidoo Brokers,SIM-FSP-0000631,Bank Assurance,Independent,KwaZulu-Natal,N,
+STI-0000632,INT000632,Thandi Smith Brokers,SIM-FSP-0000632,Bank Assurance,National Broker Group,North West,Yes,N/A
+STI-0000633,INT000633,Sipho Maseko Brokers,SIM-FSP-0000633,BROKER,Metro Network,North West,Active,2024/08/13
+STI-0000634,INT000634,Fatima Smith Brokers,SIM-FSP-0000634,BROKER,Coastal Group,Gauteng,Yes,N/A
+STI-0000635,INT000635,Zanele Sithole Brokers,SIM-FSP-0000635,Broker,Metro Network,North West,Active,2025-02-01
+STI-0000636,INT000636,Zanele Molefe Brokers,SIM-FSP-0000636,Direct,National Broker Group,Limpopo,Yes,
+STI-0000637,INT000637,Tshepo Ndlovu Brokers,SIM-FSP-0000637,BROKER,Metro Network,Mpumalanga,1,
+STI-0000638,INT000638,Daniel van der Merwe Brokers,SIM-FSP-0000638,Bank-Assurance,National Broker Group,North West,Y,N/A
+STI-0000639,INT000639,Ayanda van der Merwe Brokers,SIM-FSP-0000639,Bank-Assurance,National Broker Group,Mpumalanga,Active,NULL
+STI-0000640,INT000640,Kabelo Khumalo Brokers,SIM-FSP-0000640,Bank Assurance,Coastal Group,KwaZulu-Natal,1,N/A
+STI-0000641,INT000641,Ayanda Williams Brokers,SIM-FSP-0000641,Bank-Assurance,Coastal Group,KwaZulu-Natal,N,2021/01/05
+STI-0000642,INT000642,Daniel Jacobs Brokers,SIM-FSP-0000642,Broker,Independent,Limpopo,1,N/A
+STI-0000643,INT000643,Naledi Zulu Brokers,SIM-FSP-0000643,Bank-Assurance,Coastal Group,Northern Cape,Active,07/01/2025
+STI-0000644,INT000644,Musa Zulu Brokers,SIM-FSP-0000644,Broker,Metro Network,Western Cape,1,N/A
+STI-0000645,INT000645,Tshepo Ndlovu Brokers,SIM-FSP-0000645,BROKER,Independent,North West,Y,N/A
+STI-0000646,INT000646,Ayanda Botha Brokers,SIM-FSP-0000646,Broker,National Broker Group,Gauteng,Y,NULL
+STI-0000647,INT000647,Tshepo Smith Brokers,SIM-FSP-0000647,BROKER,National Broker Group,Free State,1,N/A
+STI-0000648,INT000648,Amina Mokoena Brokers,SIM-FSP-0000648,,Independent,Free State,1,
+STI-0000649,INT000649,Kabelo Mokoena Brokers,SIM-FSP-0000649,Broker,Coastal Group,Western Cape,1,16/07/2024
+STI-0000650,INT000650,Zanele Botha Brokers,SIM-FSP-0000650,Bank-Assurance,National Broker Group,Mpumalanga,N,NULL
+STI-0000651,INT000651,Samuel Molefe Brokers,SIM-FSP-0000651,BROKER,Independent,North West,Yes,
+STI-0000652,INT000652,Naledi Adams Brokers,SIM-FSP-0000652,Bank Assurance,Metro Network,KwaZulu-Natal,N,
+STI-0000653,INT000653,Peter Mthembu Brokers,SIM-FSP-0000653,Direct,Independent,Eastern Cape,1,2021/10/14
+STI-0000654,INT000654,Lwazi Mokoena Brokers,SIM-FSP-0000654,BROKER,Metro Network,Limpopo,1,02/02/2022
+STI-0000655,INT000655,Grace Zulu Brokers,SIM-FSP-0000655,Direct,Metro Network,Free State,Yes,
+STI-0000656,INT000656,Neo Botha Brokers,SIM-FSP-0000656,BROKER,Independent,North West,Active,NULL
+STI-0000657,INT000657,Sipho Naidoo Brokers,NULL,BROKER,National Broker Group,Northern Cape,N,2025-12-02
+STI-0000658,INT000658,Musa Dlamini Brokers,SIM-FSP-0000658,BROKER,Independent,Free State,N,N/A
+STI-0000659,INT000659,Brian Zulu Brokers,SIM-FSP-0000659,Broker,Independent,Limpopo,Active,2024/11/02
+STI-0000660,INT000660,Lwazi Naidoo Brokers,SIM-FSP-0000660,Bank Assurance,National Broker Group,KwaZulu-Natal,1,20/02/2023
+STI-0000661,INT000661,David Williams Brokers,SIM-FSP-0000661,Broker,Metro Network,Free State,1,
+STI-0000662,INT000662,Thandi Sithole Brokers,SIM-FSP-0000662,BROKER,Coastal Group,Eastern Cape,Active,NULL
+STI-0000663,INT000663,Lwazi Adams Brokers,SIM-FSP-0000663,Bank-Assurance,,Limpopo,1,2020/06/14
+STI-0000664,INT000664,Musa Jacobs Brokers,SIM-FSP-0000664,Broker,National Broker Group,Western Cape,1,NULL
+STI-0000665,INT000665,Mariam Jacobs Brokers,SIM-FSP-0000665,BROKER,National Broker Group,Free State,N,16/06/2024
+STI-0000666,INT000666,Amina van der Merwe Brokers,SIM-FSP-0000666,Bank-Assurance,Metro Network,Limpopo,1,N/A
+STI-0000667,INT000667,Nandi Jacobs Brokers,SIM-FSP-0000667,Direct,,Gauteng,Active,30/09/2023
+STI-0000668,INT000668,Nomsa Molefe Brokers,SIM-FSP-0000668,BROKER,Coastal Group,Free State,Active,NULL
+STI-0000669,INT000669,Lwazi Williams Brokers,SIM-FSP-0000669,Bank-Assurance,National Broker Group,KwaZulu-Natal,Active,NULL
+STI-0000670,INT000670,Kabelo Ndlovu Brokers,SIM-FSP-0000670,BROKER,Coastal Group,Northern Cape,N,N/A
+STI-0000671,INT000671,David Maseko Brokers,SIM-FSP-0000671,Bank-Assurance,National Broker Group,Free State,1,08-07-2024
+STI-0000672,INT000672,Naledi Botha Brokers,SIM-FSP-0000672,Direct,Coastal Group,KwaZulu-Natal,Y,N/A
+STI-0000673,INT000673,David van der Merwe Brokers,SIM-FSP-0000673,Broker,,Eastern Cape,N,N/A
+STI-0000674,INT000674,Fatima Adams Brokers,SIM-FSP-0000674,BROKER,Independent,Free State,Yes,2020-12-29
+STI-0000675,INT000675,Fatima Mabena Brokers,SIM-FSP-0000675,Broker,,Gauteng,Active,28/08/2025
+STI-0000676,INT000676,Keitumetse Mokoena Brokers,SIM-FSP-0000676,BROKER,Coastal Group,North West,1,
+STI-0000677,INT000677,Amina Pillay Brokers,SIM-FSP-0000677,Bank Assurance,,Free State,1,2021-04-11
+STI-0000678,INT000678,Zanele Jacobs Brokers,SIM-FSP-0000678,BROKER,Coastal Group,Limpopo,1,2023-09-09
+STI-0000679,INT000679,Tshepo Nkosi Brokers,SIM-FSP-0000679,Broker,,Mpumalanga,N,30/11/2022
+STI-0000680,INT000680,Keitumetse Botha Brokers,SIM-FSP-0000680,Broker,,KwaZulu-Natal,1,N/A
+STI-0000681,INT000681,Grace Adams Brokers,SIM-FSP-0000681,BROKER,Coastal Group,KwaZulu-Natal,Active,NULL
+STI-0000682,INT000682,Ayanda Jacobs Brokers,SIM-FSP-0000682,Direct,National Broker Group,Limpopo,Yes,2021/09/11
+STI-0000683,INT000683,Neo Botha Brokers,SIM-FSP-0000683,BROKER,Metro Network,Free State,Yes,
+STI-0000684,INT000684,Musa Botha Brokers,SIM-FSP-0000684,Broker,Metro Network,Eastern Cape,Y,11/02/2025
+STI-0000685,INT000685,Portia Ndlovu Brokers,SIM-FSP-0000685,BROKER,Coastal Group,KwaZulu-Natal,N,
+STI-0000686,INT000686,Portia Mahlangu Brokers,SIM-FSP-0000686,Broker,Metro Network,Western Cape,Y,
+STI-0000687,INT000687,Lwazi van der Merwe Brokers,SIM-FSP-0000687,Direct,Independent,Gauteng,Active,
+STI-0000688,INT000688,Sipho Mokoena Brokers,SIM-FSP-0000688,Bank-Assurance,Coastal Group,Free State,Yes,N/A
+STI-0000689,INT000689,Samuel Khumalo Brokers,SIM-FSP-0000689,Broker,Independent,Limpopo,Yes,N/A
+STI-0000690,INT000690,Tshepo Botha Brokers,SIM-FSP-0000690,Direct,Metro Network,Mpumalanga,Active,NULL
+STI-0000691,INT000691,Neo Botha Brokers,SIM-FSP-0000691,Direct,National Broker Group,Free State,1,2021-09-15
+STI-0000692,INT000692,Samuel Naidoo Brokers,SIM-FSP-0000692,Bank-Assurance,Independent,Northern Cape,N,NULL
+STI-0000693,INT000693,Kabelo Molefe Brokers,SIM-FSP-0000693,Broker,,Limpopo,Y,2020/11/21
+STI-0000694,INT000694,Kabelo Sithole Brokers,SIM-FSP-0000694,BROKER,,Gauteng,N,NULL
+STI-0000695,INT000695,Tshepo Ndlovu Brokers,SIM-FSP-0000695,Bank-Assurance,National Broker Group,Free State,Active,NULL
+STI-0000696,INT000696,Nomsa Botha Brokers,SIM-FSP-0000696,Broker,Coastal Group,Western Cape,Y,N/A
+STI-0000697,INT000697,Brian Smith Brokers,SIM-FSP-0000697,Broker,National Broker Group,Northern Cape,Active,
+STI-0000698,INT000698,Naledi Zulu Brokers,SIM-FSP-0000698,BROKER,Coastal Group,Eastern Cape,Yes,21/01/2021
+STI-0000699,INT000699,Lerato van der Merwe Brokers,SIM-FSP-0000699,Bank-Assurance,National Broker Group,Limpopo,N,02-04-2025
+STI-0000700,INT000700,Nandi Maseko Brokers,SIM-FSP-0000700,Bank Assurance,,Eastern Cape,N,09-22-2021

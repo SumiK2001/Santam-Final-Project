@@ -1,0 +1,11 @@
+﻿event_id,event_name,event_type,province,event_start_date,event_end_date,damage_ratio_assumption,is_simulated_event
+EVT-001,Simulated Coastal Rain Cluster,Flood,Western Cape,2022-04-11,2022-04-16,0.0800,Y
+EVT-002,Simulated Inland Hail Cluster,Hail,Gauteng,2022-11-03,2022-11-05,0.0350,Y
+EVT-003,Simulated River Flood Cluster,Flood,KwaZulu-Natal,2023-02-18,2023-02-25,0.1000,Y
+EVT-004,Simulated Cape Wind Cluster,Wind,Western Cape,2023-09-01,2023-09-04,0.0250,Y
+EVT-005,Simulated North Hail Cluster,Hail,Limpopo,2024-01-09,2024-01-12,0.0400,Y
+EVT-006,Simulated Metro Rain Cluster,Flood,Gauteng,2024-03-21,2024-03-24,0.0550,Y
+EVT-007,Simulated Central Hail Cluster,Hail,Free State,2024-11-16,2024-11-19,0.0300,Y
+EVT-008,Simulated Coastal Flood Cluster,Flood,Eastern Cape,2025-02-02,2025-02-08,0.0700,Y
+EVT-009,Simulated Inland Wind Cluster,Wind,Mpumalanga,2025-08-12,2025-08-15,0.0225,Y
+EVT-010,Simulated Cape Hail Cluster,Hail,Western Cape,2025-10-28,2025-11-01,0.0450,Y

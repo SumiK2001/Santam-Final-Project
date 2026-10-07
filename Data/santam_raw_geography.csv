@@ -1,0 +1,16 @@
+﻿geography_id,postal_area,suburb_name,municipality,province,region_name,is_synthetic_postal_area
+GEO-0001,SIM-1001,Metro North,Metro Central,Gauteng,Metro Central,Y
+GEO-0002,SIM-1002,Metro East,Metro Central,Gauteng,Metro Central,Y
+GEO-0003,SIM-1003,Metro South,Metro Central,Gauteng,Metro Central,Y
+GEO-0004,SIM-2001,Coastal North,Cape Metro,Western Cape,Cape Metro,Y
+GEO-0005,SIM-2002,Coastal South,Cape Metro,Western Cape,Cape Metro,Y
+GEO-0006,SIM-2101,Garden Route East,Garden Route,Western Cape,Garden Route,Y
+GEO-0007,SIM-3001,Durban North,eThekwini,KwaZulu-Natal,eThekwini,Y
+GEO-0008,SIM-3002,Durban South,eThekwini,KwaZulu-Natal,eThekwini,Y
+GEO-0009,SIM-3101,Midlands Central,uMgungundlovu,KwaZulu-Natal,uMgungundlovu,Y
+GEO-0010,SIM-4001,Bay Central,Nelson Mandela Bay,Eastern Cape,Nelson Mandela Bay,Y
+GEO-0011,SIM-5001,Bloem Central,Mangaung,Free State,Mangaung,Y
+GEO-0012,SIM-6001,Polokwane Central,Capricorn,Limpopo,Capricorn,Y
+GEO-0013,SIM-7001,Mbombela Central,Ehlanzeni,Mpumalanga,Ehlanzeni,Y
+GEO-0014,SIM-8001,Rustenburg Central,Bojanala,North West,Bojanala,Y
+GEO-0015,SIM-9001,Upington Central,ZF Mgcawu,Northern Cape,ZF Mgcawu,Y

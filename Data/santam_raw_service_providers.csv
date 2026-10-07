@@ -1,0 +1,501 @@
+﻿source_row_id,provider_id,provider_name,provider_type,branch_name,region_name,active_flag
+STPVD-0000001,PROV000001,Zulu Assessors,Assessor,,KwaZulu-Natal,Active
+STPVD-0000002,PROV000002,Zulu Tows,Tow,Main branch,North West,Yes
+STPVD-0000003,PROV000003,Khumalo Repairers,Repairer,Workshop 1,Limpopo,Yes
+STPVD-0000004,PROV000004,Mokoena Assessors,Assessor,Central,Northern Cape,Yes
+STPVD-0000005,PROV000005,Adams Panel Beaters,Panel Beater,North,North West,N
+STPVD-0000006,PROV000006,Mthembu Glasss,Glass,North,Mpumalanga,Yes
+STPVD-0000007,PROV000007,Nkosi Glasss,Glass,Central,Free State,1
+STPVD-0000008,PROV000008,Ndlovu Panel Beaters,Panel Beater,Coastal,Limpopo,1
+STPVD-0000009,PROV000009,Khumalo Repairers,Repairer,Main branch,KwaZulu-Natal,Active
+STPVD-0000010,PROV000010,Adams Assessors,Assessor,North,Northern Cape,1
+STPVD-0000011,PROV000011,Mabena Panel Beaters,Panel Beater,,North West,Active
+STPVD-0000012,PROV000012,Dlamini Assessors,Assessor,,Western Cape,Y
+STPVD-0000013,PROV000013,Mahlangu Repairers,Repairer,North,Gauteng,Yes
+STPVD-0000014,PROV000014,Pillay Tows,Tow,,North West,1
+STPVD-0000015,PROV000015,Maseko Repairers,Repairer,Central,Western Cape,Y
+STPVD-0000016,PROV000016,Williams Assessors,Assessor,North,Free State,Yes
+STPVD-0000017,PROV000017,Smith Glasss,Glass,Central,KwaZulu-Natal,N
+STPVD-0000018,PROV000018,Nkosi Repairers,Repairer,Workshop 1,Mpumalanga,N
+STPVD-0000019,PROV000019,Williams Repairers,Repairer,Central,Gauteng,Active
+STPVD-0000020,PROV000020,Naidoo Panel Beaters,Panel Beater,Workshop 1,Mpumalanga,Yes
+STPVD-0000021,PROV000021,Jacobs Panel Beaters,panel beater,Main branch,North West,1
+STPVD-0000022,PROV000022,Mthembu Glasss,Glass,North,Free State,1
+STPVD-0000023,PROV000023,van der Merwe Panel Beaters,Panel Beater,Workshop 1,Western Cape,1
+STPVD-0000024,PROV000024,Khumalo Tows,Tow,Main branch,Eastern Cape,N
+STPVD-0000025,PROV000025,Adams Tows,Tow,,Mpumalanga,Y
+STPVD-0000026,PROV000026,Botha Assessors,Assessor,Workshop 1,KwaZulu-Natal,1
+STPVD-0000027,PROV000027,Smith Glasss,Glass,Central,North West,N
+STPVD-0000028,PROV000028,Ndlovu Assessors,Assessor,Workshop 1,Free State,Yes
+STPVD-0000029,PROV000029,Mthembu Glasss,Assessor,North,Eastern Cape,Y
+STPVD-0000030,PROV000030,Mahlangu Tows,Tow,Central,KwaZulu-Natal,Yes
+STPVD-0000031,PROV000031,van der Merwe Tows,Tow,Workshop 1,Limpopo,1
+STPVD-0000032,PROV000032,Adams Repairers,Repairer,Central,North West,Active
+STPVD-0000033,PROV000033,Sithole Panel Beaters,Panel Beater,,North West,1
+STPVD-0000034,PROV000034,Pillay Panel Beaters,Panel Beater,Central,North West,N
+STPVD-0000035,PROV000035,Ndlovu Repairers,repairer,Coastal,Western Cape,Y
+STPVD-0000036,PROV000036,Nkosi Tows,Tow,Coastal,Gauteng,Yes
+STPVD-0000037,PROV000037,Williams Repairers,Repairer,Main branch,Mpumalanga,N
+STPVD-0000038,PROV000038,Mahlangu Panel Beaters,Panel Beater,Workshop 1,Free State,Yes
+STPVD-0000039,PROV000039,Pillay Panel Beaters,Panel Beater,North,Free State,1
+STPVD-0000040,PROV000040,Khumalo Panel Beaters,Panel Beater,,Mpumalanga,N
+STPVD-0000041,PROV000041,Sithole Panel Beaters,Assessor,Main branch,Western Cape,Yes
+STPVD-0000042,PROV000042,van der Merwe Assessors,Assessor,North,Free State,1
+STPVD-0000043,PROV000043,Mokoena Tows,Tow,Main branch,Free State,N
+STPVD-0000044,PROV000044,Smith Glasss,Glass,Coastal,KwaZulu-Natal,Yes
+STPVD-0000045,PROV000045,Dlamini Panel Beaters,Panel Beater,Coastal,Northern Cape,Y
+STPVD-0000046,PROV000046,Ndlovu Panel Beaters,Panel Beater,Coastal,Northern Cape,Yes
+STPVD-0000047,PROV000047,Dlamini Panel Beaters,Panel Beater,Workshop 1,Limpopo,1
+STPVD-0000048,PROV000048,MTHEMBU GLASSS,Glass,,Mpumalanga,N
+STPVD-0000049,PROV000049,Khumalo Repairers,Repairer,Main branch,Gauteng,1
+STPVD-0000050,PROV000050,Khumalo Glasss,Glass,Coastal,North West,1
+STPVD-0000051,PROV000051,Ndlovu Repairers,Repairer,Main branch,Mpumalanga,Active
+STPVD-0000052,PROV000052,Zulu Panel Beaters,Panel Beater,,Free State,Yes
+STPVD-0000053,PROV000053,Mokoena Tows,tow,North,Free State,N
+STPVD-0000054,PROV000054,NAIDOO REPAIRERS,Repairer,Central,Northern Cape,Yes
+STPVD-0000055,PROV000055,Khumalo Repairers,Repairer,Main branch,Eastern Cape,Y
+STPVD-0000056,PROV000056,Adams Glasss,Glass,Workshop 1,Mpumalanga,N
+STPVD-0000057,PROV000057,van der Merwe Glasss,Glass,,Free State,Y
+STPVD-0000058,PROV000058,Mahlangu Repairers,Repairer,,Western Cape,Active
+STPVD-0000059,PROV000059,Dlamini Repairers,repairer,Coastal,Eastern Cape,1
+STPVD-0000060,PROV000060,NAIDOO REPAIRERS,Repairer,Coastal,Free State,Active
+STPVD-0000061,PROV000061,Botha Assessors,Assessor,North,Free State,N
+STPVD-0000062,PROV000062,Molefe Tows,Tow,Coastal,Limpopo,1
+STPVD-0000063,PROV000063,Botha Repairers,Repairer,,Western Cape,Y
+STPVD-0000064,PROV000064,Ndlovu Glasss,Glass,,Mpumalanga,N
+STPVD-0000065,PROV000065,Ndlovu Tows,Tow,Workshop 1,Gauteng,Y
+STPVD-0000066,PROV000066,Maseko Tows,Tow,Coastal,Limpopo,1
+STPVD-0000067,PROV000067,Molefe Tows,Tow,Coastal,Mpumalanga,Active
+STPVD-0000068,PROV000068,Mahlangu Panel Beaters,Panel Beater,Central,Northern Cape,Active
+STPVD-0000069,PROV000069,Molefe Glasss,Glass,Central,Western Cape,Active
+STPVD-0000070,PROV000070,Khumalo Tows,Tow,Workshop 1,North West,1
+STPVD-0000071,PROV000071,Sithole Glasss,Glass,North,Gauteng,Yes
+STPVD-0000072,PROV000072,Ndlovu Repairers,Repairer,Coastal,KwaZulu-Natal,N
+STPVD-0000073,PROV000073,Botha Tows,Tow,Coastal,North West,Active
+STPVD-0000074,PROV000074,Williams Glasss,Glass,,North West,N
+STPVD-0000075,PROV000075,Williams Repairers,Repairer,Central,Limpopo,N
+STPVD-0000076,PROV000076,Williams Glasss,Glass,Workshop 1,Western Cape,Y
+STPVD-0000077,PROV000077,Maseko Tows,Tow,North,Eastern Cape,1
+STPVD-0000078,PROV000078,Mabena Tows,Tow,North,Gauteng,Y
+STPVD-0000079,PROV000079,Zulu Glasss,Glass,North,KwaZulu-Natal,Yes
+STPVD-0000080,PROV000080,Pillay Repairers,Repairer,North,Eastern Cape,Y
+STPVD-0000081,PROV000081,Dlamini Assessors,Assessor,Central,Free State,N
+STPVD-0000082,PROV000082,Ndlovu Repairers,Repairer,,Eastern Cape,N
+STPVD-0000083,PROV000083,Mokoena Panel Beaters,Panel Beater,Main branch,Free State,N
+STPVD-0000084,PROV000084,Sithole Repairers,Repairer,Coastal,North West,Active
+STPVD-0000085,PROV000085,Dlamini Assessors,Assessor,Main branch,KwaZulu-Natal,Y
+STPVD-0000086,PROV000086,Mahlangu Glasss,Glass,Main branch,Mpumalanga,N
+STPVD-0000087,PROV000087,Maseko Glasss,Glass,Coastal,KwaZulu-Natal,Y
+STPVD-0000088,PROV000088,Ndlovu Tows,Tow,North,North West,Y
+STPVD-0000089,PROV000089,Mokoena Assessors,Assessor,Main branch,Free State,1
+STPVD-0000090,PROV000090,Pillay Repairers,Repairer,Workshop 1,Eastern Cape,Y
+STPVD-0000091,PROV000091,Naidoo Repairers,Repairer,Workshop 1,KwaZulu-Natal,Y
+STPVD-0000092,PROV000092,van der Merwe Panel Beaters,Panel Beater,North,Free State,Yes
+STPVD-0000093,PROV000093,Maseko Glasss,Glass,Central,Gauteng,Y
+STPVD-0000094,PROV000094,Pillay Glasss,Glass,North,Eastern Cape,Y
+STPVD-0000095,PROV000095,Zulu Panel Beaters,panel beater,North,Limpopo,Active
+STPVD-0000096,PROV000096,Adams Assessors,Assessor,Workshop 1,Western Cape,N
+STPVD-0000097,PROV000097,Maseko Repairers,Repairer,North,KwaZulu-Natal,1
+STPVD-0000098,PROV000098,Khumalo Tows,Tow,Central,Western Cape,1
+STPVD-0000099,PROV000099,Smith Panel Beaters,Panel Beater,North,North West,N
+STPVD-0000100,PROV000100,Botha Glasss,Glass,Coastal,Limpopo,1
+STPVD-0000101,PROV000101,Mokoena Tows,Tow,Coastal,Free State,Yes
+STPVD-0000102,PROV000102,Mabena Tows,Tow,Workshop 1,KwaZulu-Natal,N
+STPVD-0000103,PROV000103,Mahlangu Repairers,Repairer,,Free State,Y
+STPVD-0000104,PROV000104,Botha Panel Beaters,Panel Beater,,Northern Cape,Yes
+STPVD-0000105,PROV000105,Mokoena Panel Beaters,Panel Beater,Central,North West,Active
+STPVD-0000106,PROV000106,Mabena Glasss,Glass,Coastal,North West,Y
+STPVD-0000107,PROV000107,Botha Glasss,Glass,North,Mpumalanga,1
+STPVD-0000108,PROV000108,Ndlovu Glasss,Glass,,Gauteng,Yes
+STPVD-0000109,PROV000109,Mabena Glasss,Glass,North,Mpumalanga,Active
+STPVD-0000110,PROV000110,Maseko Glasss,Glass,Main branch,Northern Cape,Yes
+STPVD-0000111,PROV000111,Pillay Tows,Tow,Coastal,North West,Y
+STPVD-0000112,PROV000112,Ndlovu Repairers,Repairer,,Eastern Cape,Active
+STPVD-0000113,PROV000113,VAN DER MERWE TOWS,Tow,,KwaZulu-Natal,1
+STPVD-0000114,PROV000114,Pillay Assessors,Assessor,Workshop 1,Free State,Y
+STPVD-0000115,PROV000115,Dlamini Panel Beaters,panel beater,Main branch,KwaZulu-Natal,N
+STPVD-0000116,PROV000116,Jacobs Tows,Tow,Central,Western Cape,1
+STPVD-0000117,PROV000117,Khumalo Repairers,Repairer,Coastal,Mpumalanga,Yes
+STPVD-0000118,PROV000118,Smith Tows,Tow,,North West,1
+STPVD-0000119,PROV000119,Williams Assessors,Assessor,Main branch,Eastern Cape,Y
+STPVD-0000120,PROV000120,Maseko Tows,Tow,Main branch,KwaZulu-Natal,Active
+STPVD-0000121,PROV000121,Molefe Panel Beaters,Panel Beater,Workshop 1,Mpumalanga,Y
+STPVD-0000122,PROV000122,Adams Glasss,Glass,North,Limpopo,Active
+STPVD-0000123,PROV000123,Sithole Glasss,Glass,Main branch,Mpumalanga,Y
+STPVD-0000124,PROV000124,Khumalo Panel Beaters,Panel Beater,Coastal,Mpumalanga,Yes
+STPVD-0000125,PROV000125,Sithole Tows,Tow,Main branch,Limpopo,Active
+STPVD-0000126,PROV000126,van der Merwe Glasss,Glass,Main branch,Northern Cape,1
+STPVD-0000127,PROV000127,Ndlovu Assessors,Assessor,Central,Eastern Cape,1
+STPVD-0000128,PROV000128,Mabena Tows,Tow,,Northern Cape,1
+STPVD-0000129,PROV000129,Jacobs Assessors,Assessor,,Gauteng,N
+STPVD-0000130,PROV000130,Naidoo Assessors,Assessor,Workshop 1,Northern Cape,1
+STPVD-0000131,PROV000131,Adams Repairers,Repairer,Workshop 1,Western Cape,1
+STPVD-0000132,PROV000132,Dlamini Tows,Tow,Main branch,Gauteng,Active
+STPVD-0000133,PROV000133,Ndlovu Glasss,Glass,Coastal,Limpopo,Active
+STPVD-0000134,PROV000134,Mokoena Assessors,Assessor,Coastal,Free State,Yes
+STPVD-0000135,PROV000135,Smith Repairers,Repairer,,Gauteng,Y
+STPVD-0000136,PROV000136,Botha Glasss,Glass,Workshop 1,Gauteng,N
+STPVD-0000137,PROV000137,Naidoo Glasss,Glass,Main branch,Western Cape,Y
+STPVD-0000138,PROV000138,Molefe Tows,Tow,Coastal,Mpumalanga,1
+STPVD-0000139,PROV000139,Molefe Assessors,Assessor,Main branch,KwaZulu-Natal,Active
+STPVD-0000140,PROV000140,Mthembu Repairers,Repairer,,Limpopo,Y
+STPVD-0000141,PROV000141,van der Merwe Assessors,assessor,,KwaZulu-Natal,1
+STPVD-0000142,PROV000142,van der Merwe Repairers,Repairer,Central,Gauteng,Active
+STPVD-0000143,PROV000143,van der Merwe Tows,Tow,North,Gauteng,N
+STPVD-0000144,PROV000144,Adams Repairers,Repairer,Workshop 1,Eastern Cape,1
+STPVD-0000145,PROV000145,Adams Repairers,Repairer,Central,Eastern Cape,N
+STPVD-0000146,PROV000146,Mokoena Glasss,Glass,North,KwaZulu-Natal,1
+STPVD-0000147,PROV000147,Maseko Tows,Tow,North,KwaZulu-Natal,Active
+STPVD-0000148,PROV000148,Mahlangu Repairers,Repairer,Main branch,Mpumalanga,1
+STPVD-0000149,PROV000149,Mahlangu Repairers,Repairer,Workshop 1,Mpumalanga,Yes
+STPVD-0000150,PROV000150,Dlamini Repairers,Repairer,,Northern Cape,N
+STPVD-0000151,PROV000151,Smith Repairers,Repairer,Main branch,KwaZulu-Natal,N
+STPVD-0000152,PROV000152,Mabena Repairers,Repairer,Central,Eastern Cape,1
+STPVD-0000153,PROV000153,Dlamini Panel Beaters,Panel Beater,Main branch,Western Cape,Active
+STPVD-0000154,PROV000154,Mthembu Glasss,Glass,North,Free State,N
+STPVD-0000155,PROV000155,Nkosi Tows,Tow,Main branch,North West,1
+STPVD-0000156,PROV000156,Mokoena Repairers,Repairer,Central,KwaZulu-Natal,N
+STPVD-0000157,PROV000157,Naidoo Assessors,Assessor,Coastal,KwaZulu-Natal,1
+STPVD-0000158,PROV000158,Mahlangu Tows,Tow,Main branch,Eastern Cape,1
+STPVD-0000159,PROV000159,Williams Tows,Tow,Main branch,Mpumalanga,N
+STPVD-0000160,PROV000160,Sithole Glasss,glass,,Eastern Cape,N
+STPVD-0000161,PROV000161,Sithole Panel Beaters,Panel Beater,Central,Western Cape,Y
+STPVD-0000162,PROV000162,Pillay Glasss,Glass,,Western Cape,1
+STPVD-0000163,PROV000163,Maseko Glasss,Glass,Main branch,Mpumalanga,Active
+STPVD-0000164,PROV000164,Naidoo Repairers,Repairer,Main branch,North West,Yes
+STPVD-0000165,PROV000165,Nkosi Panel Beaters,Panel Beater,Central,Eastern Cape,N
+STPVD-0000166,PROV000166,Williams Tows,Tow,,Gauteng,1
+STPVD-0000167,PROV000167,Mthembu Panel Beaters,Panel Beater,Central,Limpopo,1
+STPVD-0000168,PROV000168,Khumalo Repairers,Repairer,North,Eastern Cape,Active
+STPVD-0000169,PROV000169,Ndlovu Tows,Tow,,Free State,Y
+STPVD-0000170,PROV000170,Botha Glasss,Glass,Workshop 1,Gauteng,Y
+STPVD-0000171,PROV000171,Williams Panel Beaters,Panel Beater,Central,Free State,1
+STPVD-0000172,PROV000172,Jacobs Glasss,Glass,Coastal,Eastern Cape,1
+STPVD-0000173,PROV000173,Mabena Glasss,glass,Main branch,Eastern Cape,Active
+STPVD-0000174,PROV000174,Williams Repairers,Repairer,Central,Mpumalanga,Y
+STPVD-0000175,PROV000175,Jacobs Repairers,Repairer,Coastal,Mpumalanga,Yes
+STPVD-0000176,PROV000176,Maseko Glasss,Glass,,Northern Cape,Yes
+STPVD-0000177,PROV000177,Dlamini Assessors,Assessor,Coastal,Northern Cape,Active
+STPVD-0000178,PROV000178,Molefe Repairers,Repairer,Main branch,Eastern Cape,Y
+STPVD-0000179,PROV000179,Mahlangu Panel Beaters,Panel Beater,North,Gauteng,N
+STPVD-0000180,PROV000180,Botha Repairers,Repairer,,Limpopo,Active
+STPVD-0000181,PROV000181,Zulu Panel Beaters,Panel Beater,Coastal,North West,Active
+STPVD-0000182,PROV000182,Jacobs Repairers,Repairer,Central,Northern Cape,N
+STPVD-0000183,PROV000183,Pillay Assessors,Assessor,Workshop 1,KwaZulu-Natal,Yes
+STPVD-0000184,PROV000184,Maseko Tows,Tow,,North West,Y
+STPVD-0000185,PROV000185,Adams Glasss,Glass,Workshop 1,Western Cape,1
+STPVD-0000186,PROV000186,Zulu Glasss,Glass,North,Mpumalanga,1
+STPVD-0000187,PROV000187,Mabena Glasss,Glass,,North West,Active
+STPVD-0000188,PROV000188,Maseko Tows,Tow,Workshop 1,Western Cape,1
+STPVD-0000189,PROV000189,Sithole Panel Beaters,Panel Beater,Coastal,KwaZulu-Natal,Yes
+STPVD-0000190,PROV000190,Maseko Repairers,Repairer,North,KwaZulu-Natal,Active
+STPVD-0000191,PROV000191,JACOBS TOWS,Tow,Workshop 1,Eastern Cape,Active
+STPVD-0000192,PROV000192,Pillay Glasss,Glass,North,Limpopo,Y
+STPVD-0000193,PROV000193,Williams Glasss,Glass,Central,Free State,Active
+STPVD-0000194,PROV000194,Molefe Tows,Tow,Main branch,Mpumalanga,Active
+STPVD-0000195,PROV000195,van der Merwe Tows,Tow,Central,North West,1
+STPVD-0000196,PROV000196,Molefe Tows,Tow,Main branch,Mpumalanga,1
+STPVD-0000197,PROV000197,Ndlovu Repairers,Repairer,Coastal,Gauteng,1
+STPVD-0000198,PROV000198,Nkosi Panel Beaters,Panel Beater,Central,Mpumalanga,Y
+STPVD-0000199,PROV000199,Zulu Assessors,Assessor,Workshop 1,Gauteng,Active
+STPVD-0000200,PROV000200,Dlamini Panel Beaters,Panel Beater,North,Limpopo,Active
+STPVD-0000201,PROV000201,Jacobs Repairers,Repairer,,Free State,1
+STPVD-0000202,PROV000202,Mahlangu Assessors,Assessor,Coastal,Free State,Y
+STPVD-0000203,PROV000203,Khumalo Repairers,Repairer,North,Northern Cape,Y
+STPVD-0000204,PROV000204,Smith Repairers,Repairer,Workshop 1,Gauteng,Active
+STPVD-0000205,PROV000205,Ndlovu Assessors,Assessor,North,Mpumalanga,1
+STPVD-0000206,PROV000206,Maseko Repairers,Repairer,Workshop 1,Western Cape,Active
+STPVD-0000207,PROV000207,Mthembu Assessors,Assessor,Central,North West,Yes
+STPVD-0000208,PROV000208,Jacobs Tows,Tow,,Gauteng,Active
+STPVD-0000209,PROV000209,Molefe Panel Beaters,Panel Beater,Workshop 1,Gauteng,Y
+STPVD-0000210,PROV000210,Jacobs Repairers,Repairer,Workshop 1,Free State,Yes
+STPVD-0000211,PROV000211,WILLIAMS PANEL BEATERS,Panel Beater,Central,Mpumalanga,N
+STPVD-0000212,PROV000212,Naidoo Panel Beaters,Panel Beater,Workshop 1,Northern Cape,N
+STPVD-0000213,PROV000213,Nkosi Tows,Tow,North,Eastern Cape,1
+STPVD-0000214,PROV000214,Khumalo Repairers,Repairer,Workshop 1,Eastern Cape,Yes
+STPVD-0000215,PROV000215,Ndlovu Glasss,Glass,Main branch,KwaZulu-Natal,Y
+STPVD-0000216,PROV000216,MASEKO REPAIRERS,Repairer,Central,Eastern Cape,Yes
+STPVD-0000217,PROV000217,Adams Assessors,Assessor,Workshop 1,KwaZulu-Natal,Yes
+STPVD-0000218,PROV000218,Ndlovu Glasss,Glass,North,Mpumalanga,Yes
+STPVD-0000219,PROV000219,Ndlovu Glasss,Glass,,Western Cape,1
+STPVD-0000220,PROV000220,Adams Assessors,Assessor,Main branch,Limpopo,Y
+STPVD-0000221,PROV000221,Sithole Tows,Tow,Main branch,Eastern Cape,N
+STPVD-0000222,PROV000222,MASEKO PANEL BEATERS,Panel Beater,Coastal,Eastern Cape,1
+STPVD-0000223,PROV000223,Pillay Panel Beaters,panel beater,Main branch,North West,N
+STPVD-0000224,PROV000224,Williams Repairers,Repairer,Coastal,Western Cape,Active
+STPVD-0000225,PROV000225,Williams Panel Beaters,Panel Beater,Central,Gauteng,N
+STPVD-0000226,PROV000226,Molefe Tows,Tow,North,Free State,Yes
+STPVD-0000227,PROV000227,Pillay Tows,Tow,Main branch,Free State,N
+STPVD-0000228,PROV000228,Nkosi Repairers,Repairer,Workshop 1,Mpumalanga,Active
+STPVD-0000229,PROV000229,van der Merwe Glasss,Glass,Central,KwaZulu-Natal,N
+STPVD-0000230,PROV000230,Maseko Panel Beaters,Panel Beater,North,North West,N
+STPVD-0000231,PROV000231,Mabena Tows,Tow,Workshop 1,Mpumalanga,Y
+STPVD-0000232,PROV000232,Mabena Glasss,Glass,Workshop 1,Mpumalanga,1
+STPVD-0000233,PROV000233,Mthembu Assessors,Assessor,Workshop 1,Northern Cape,Active
+STPVD-0000234,PROV000234,Mahlangu Repairers,Repairer,Central,Gauteng,N
+STPVD-0000235,PROV000235,Smith Repairers,Repairer,Coastal,Mpumalanga,Yes
+STPVD-0000236,PROV000236,Adams Tows,Tow,,Free State,1
+STPVD-0000237,PROV000237,Smith Assessors,Assessor,,Gauteng,Yes
+STPVD-0000238,PROV000238,Mahlangu Repairers,Repairer,Coastal,Mpumalanga,Active
+STPVD-0000239,PROV000239,van der Merwe Glasss,Glass,North,Free State,Yes
+STPVD-0000240,PROV000240,Molefe Assessors,Assessor,Main branch,Northern Cape,Active
+STPVD-0000241,PROV000241,Naidoo Panel Beaters,Panel Beater,North,KwaZulu-Natal,N
+STPVD-0000242,PROV000242,Naidoo Assessors,Assessor,Central,KwaZulu-Natal,1
+STPVD-0000243,PROV000243,Sithole Repairers,Repairer,Central,Western Cape,Yes
+STPVD-0000244,PROV000244,Adams Repairers,Repairer,Workshop 1,Limpopo,N
+STPVD-0000245,PROV000245,van der Merwe Repairers,Repairer,Workshop 1,Limpopo,Active
+STPVD-0000246,PROV000246,Maseko Glasss,Glass,,KwaZulu-Natal,Y
+STPVD-0000247,PROV000247,Mahlangu Panel Beaters,Panel Beater,Workshop 1,Gauteng,Y
+STPVD-0000248,PROV000248,Dlamini Glasss,Glass,Main branch,Eastern Cape,Yes
+STPVD-0000249,PROV000249,Adams Assessors,Assessor,North,Limpopo,1
+STPVD-0000250,PROV000250,Dlamini Glasss,Glass,North,Free State,N
+STPVD-0000251,PROV000251,Naidoo Glasss,Glass,Coastal,Mpumalanga,Y
+STPVD-0000252,PROV000252,Ndlovu Panel Beaters,Panel Beater,,KwaZulu-Natal,Yes
+STPVD-0000253,PROV000253,Smith Repairers,Repairer,Coastal,Free State,1
+STPVD-0000254,PROV000254,Adams Glasss,Glass,,KwaZulu-Natal,Yes
+STPVD-0000255,PROV000255,Ndlovu Tows,Tow,Workshop 1,Gauteng,1
+STPVD-0000256,PROV000256,Molefe Tows,Tow,,Eastern Cape,Y
+STPVD-0000257,PROV000257,Dlamini Glasss,Glass,Central,Limpopo,Active
+STPVD-0000258,PROV000258,Williams Glasss,Glass,Workshop 1,Western Cape,N
+STPVD-0000259,PROV000259,Mabena Panel Beaters,Panel Beater,,Mpumalanga,1
+STPVD-0000260,PROV000260,van der Merwe Glasss,Glass,North,Eastern Cape,Y
+STPVD-0000261,PROV000261,van der Merwe Assessors,Assessor,Workshop 1,Northern Cape,N
+STPVD-0000262,PROV000262,Sithole Panel Beaters,Panel Beater,Main branch,Eastern Cape,Active
+STPVD-0000263,PROV000263,van der Merwe Repairers,Repairer,Coastal,North West,Yes
+STPVD-0000264,PROV000264,Botha Assessors,Assessor,Coastal,KwaZulu-Natal,Y
+STPVD-0000265,PROV000265,Williams Repairers,Repairer,Main branch,Western Cape,N
+STPVD-0000266,PROV000266,Ndlovu Glasss,Glass,Main branch,Limpopo,N
+STPVD-0000267,PROV000267,Sithole Panel Beaters,Panel Beater,North,Northern Cape,Active
+STPVD-0000268,PROV000268,Adams Glasss,Glass,Central,KwaZulu-Natal,Y
+STPVD-0000269,PROV000269,Nkosi Repairers,Repairer,Main branch,Mpumalanga,1
+STPVD-0000270,PROV000270,Mabena Glasss,Glass,Coastal,Eastern Cape,Active
+STPVD-0000271,PROV000271,Nkosi Assessors,Assessor,North,Gauteng,1
+STPVD-0000272,PROV000272,Williams Repairers,Repairer,North,Limpopo,N
+STPVD-0000273,PROV000273,Mahlangu Assessors,Assessor,Workshop 1,Gauteng,N
+STPVD-0000274,PROV000274,Zulu Assessors,Assessor,Workshop 1,Eastern Cape,1
+STPVD-0000275,PROV000275,Molefe Assessors,Assessor,North,Eastern Cape,Active
+STPVD-0000276,PROV000276,Ndlovu Assessors,Assessor,Central,KwaZulu-Natal,1
+STPVD-0000277,PROV000277,Botha Repairers,Repairer,Main branch,KwaZulu-Natal,Y
+STPVD-0000278,PROV000278,Jacobs Tows,Tow,North,Eastern Cape,Yes
+STPVD-0000279,PROV000279,Zulu Repairers,Repairer,,Gauteng,Yes
+STPVD-0000280,PROV000280,Adams Glasss,glass,Workshop 1,Limpopo,N
+STPVD-0000281,PROV000281,Mokoena Panel Beaters,Panel Beater,Main branch,Limpopo,1
+STPVD-0000282,PROV000282,Naidoo Glasss,Glass,North,North West,Yes
+STPVD-0000283,PROV000283,Mabena Tows,Tow,,KwaZulu-Natal,Active
+STPVD-0000284,PROV000284,Naidoo Assessors,Assessor,Coastal,Limpopo,Y
+STPVD-0000285,PROV000285,Naidoo Repairers,Repairer,Coastal,Free State,Yes
+STPVD-0000286,PROV000286,Mabena Tows,Tow,Main branch,Mpumalanga,Yes
+STPVD-0000287,PROV000287,Maseko Tows,Tow,,Free State,Active
+STPVD-0000288,PROV000288,Mahlangu Repairers,Repairer,,Eastern Cape,Active
+STPVD-0000289,PROV000289,Smith Tows,Tow,Coastal,Limpopo,Yes
+STPVD-0000290,PROV000290,Zulu Tows,Tow,North,KwaZulu-Natal,Yes
+STPVD-0000291,PROV000291,Khumalo Panel Beaters,panel beater,Main branch,Limpopo,Active
+STPVD-0000292,PROV000292,ZULU PANEL BEATERS,Panel Beater,Central,KwaZulu-Natal,N
+STPVD-0000293,PROV000293,Naidoo Repairers,Repairer,,Western Cape,Y
+STPVD-0000294,PROV000294,Dlamini Glasss,Glass,Main branch,Eastern Cape,Active
+STPVD-0000295,PROV000295,Mahlangu Glasss,Glass,Workshop 1,Free State,Y
+STPVD-0000296,PROV000296,Botha Glasss,Glass,Coastal,KwaZulu-Natal,1
+STPVD-0000297,PROV000297,Nkosi Repairers,Repairer,Workshop 1,North West,Active
+STPVD-0000298,PROV000298,Mabena Tows,Tow,,KwaZulu-Natal,N
+STPVD-0000299,PROV000299,Williams Repairers,Repairer,Workshop 1,Western Cape,1
+STPVD-0000300,PROV000300,Adams Repairers,Repairer,Coastal,Mpumalanga,N
+STPVD-0000301,PROV000301,Jacobs Tows,Tow,,Limpopo,Yes
+STPVD-0000302,PROV000302,Naidoo Repairers,Repairer,North,Free State,Yes
+STPVD-0000303,PROV000303,Mthembu Assessors,Assessor,Coastal,Mpumalanga,N
+STPVD-0000304,PROV000304,Dlamini Repairers,Repairer,Central,KwaZulu-Natal,1
+STPVD-0000305,PROV000305,Pillay Repairers,Repairer,Coastal,Western Cape,Yes
+STPVD-0000306,PROV000306,Botha Panel Beaters,Panel Beater,,Gauteng,Yes
+STPVD-0000307,PROV000307,Molefe Glasss,Glass,Central,KwaZulu-Natal,Yes
+STPVD-0000308,PROV000308,Khumalo Repairers,Repairer,Central,KwaZulu-Natal,Y
+STPVD-0000309,PROV000309,Khumalo Tows,Tow,Coastal,Gauteng,1
+STPVD-0000310,PROV000310,Zulu Tows,Tow,Main branch,Western Cape,Yes
+STPVD-0000311,PROV000311,van der Merwe Panel Beaters,Panel Beater,North,North West,N
+STPVD-0000312,PROV000312,Mthembu Tows,Tow,Central,Western Cape,Yes
+STPVD-0000313,PROV000313,Khumalo Panel Beaters,Panel Beater,Central,Eastern Cape,Y
+STPVD-0000314,PROV000314,Mabena Panel Beaters,Panel Beater,Workshop 1,Western Cape,Active
+STPVD-0000315,PROV000315,Smith Glasss,Glass,Central,KwaZulu-Natal,Y
+STPVD-0000316,PROV000316,Dlamini Assessors,Assessor,Central,Mpumalanga,Yes
+STPVD-0000317,PROV000317,Pillay Glasss,Glass,Main branch,North West,Yes
+STPVD-0000318,PROV000318,Dlamini Assessors,Assessor,Main branch,Limpopo,Active
+STPVD-0000319,PROV000319,MABENA TOWS,Tow,,Western Cape,N
+STPVD-0000320,PROV000320,Mahlangu Panel Beaters,Panel Beater,Main branch,Gauteng,Y
+STPVD-0000321,PROV000321,Williams Repairers,Repairer,North,Limpopo,Active
+STPVD-0000322,PROV000322,Sithole Tows,Tow,North,Eastern Cape,Y
+STPVD-0000323,PROV000323,Zulu Tows,Tow,Central,KwaZulu-Natal,N
+STPVD-0000324,PROV000324,Nkosi Repairers,Repairer,Main branch,KwaZulu-Natal,Y
+STPVD-0000325,PROV000325,Williams Repairers,Repairer,Central,Limpopo,Active
+STPVD-0000326,PROV000326,Khumalo Tows,Tow,Coastal,Eastern Cape,Yes
+STPVD-0000327,PROV000327,van der Merwe Repairers,Repairer,Workshop 1,Western Cape,Active
+STPVD-0000328,PROV000328,Botha Repairers,repairer,,Limpopo,N
+STPVD-0000329,PROV000329,Naidoo Assessors,Assessor,Workshop 1,Gauteng,Yes
+STPVD-0000330,PROV000330,Adams Tows,Tow,Central,Northern Cape,Yes
+STPVD-0000331,PROV000331,VAN DER MERWE GLASSS,Glass,Main branch,KwaZulu-Natal,1
+STPVD-0000332,PROV000332,Mahlangu Panel Beaters,Panel Beater,North,Eastern Cape,Y
+STPVD-0000333,PROV000333,Adams Tows,Tow,Central,Gauteng,Yes
+STPVD-0000334,PROV000334,Mabena Panel Beaters,Panel Beater,Workshop 1,Mpumalanga,N
+STPVD-0000335,PROV000335,Maseko Tows,Tow,North,Western Cape,N
+STPVD-0000336,PROV000336,Mahlangu Assessors,Assessor,Main branch,Mpumalanga,Yes
+STPVD-0000337,PROV000337,Jacobs Panel Beaters,panel beater,Coastal,Free State,Yes
+STPVD-0000338,PROV000338,Mabena Tows,Tow,North,Northern Cape,N
+STPVD-0000339,PROV000339,Botha Glasss,Glass,Coastal,Limpopo,Yes
+STPVD-0000340,PROV000340,Mahlangu Tows,Tow,North,Northern Cape,N
+STPVD-0000341,PROV000341,Jacobs Repairers,Repairer,North,Gauteng,Yes
+STPVD-0000342,PROV000342,Khumalo Repairers,Repairer,Central,Western Cape,Active
+STPVD-0000343,PROV000343,Mthembu Tows,Tow,Coastal,Free State,Active
+STPVD-0000344,PROV000344,Zulu Tows,Tow,North,Western Cape,Yes
+STPVD-0000345,PROV000345,Naidoo Repairers,Repairer,Main branch,Free State,Active
+STPVD-0000346,PROV000346,Ndlovu Tows,Tow,Workshop 1,Northern Cape,Active
+STPVD-0000347,PROV000347,Pillay Repairers,Repairer,Workshop 1,Eastern Cape,Yes
+STPVD-0000348,PROV000348,Ndlovu Assessors,Assessor,Workshop 1,Northern Cape,Yes
+STPVD-0000349,PROV000349,Mthembu Repairers,Repairer,Main branch,North West,Yes
+STPVD-0000350,PROV000350,Maseko Repairers,Repairer,Main branch,Mpumalanga,Yes
+STPVD-0000351,PROV000351,Sithole Panel Beaters,Panel Beater,North,KwaZulu-Natal,Y
+STPVD-0000352,PROV000352,Naidoo Panel Beaters,Panel Beater,North,North West,Yes
+STPVD-0000353,PROV000353,Williams Tows,Tow,North,North West,Active
+STPVD-0000354,PROV000354,Jacobs Repairers,Repairer,Workshop 1,Free State,N
+STPVD-0000355,PROV000355,Ndlovu Assessors,Assessor,Main branch,Mpumalanga,N
+STPVD-0000356,PROV000356,Maseko Panel Beaters,Panel Beater,Coastal,Eastern Cape,1
+STPVD-0000357,PROV000357,van der Merwe Assessors,Assessor,Workshop 1,North West,Yes
+STPVD-0000358,PROV000358,Sithole Repairers,Repairer,Workshop 1,Western Cape,N
+STPVD-0000359,PROV000359,Khumalo Tows,Tow,,Western Cape,1
+STPVD-0000360,PROV000360,Mokoena Glasss,Glass,Coastal,Gauteng,N
+STPVD-0000361,PROV000361,Smith Repairers,Repairer,,North West,Yes
+STPVD-0000362,PROV000362,Mabena Repairers,Repairer,Workshop 1,North West,Yes
+STPVD-0000363,PROV000363,Adams Assessors,Assessor,Coastal,Free State,Yes
+STPVD-0000364,PROV000364,Smith Assessors,Assessor,,Free State,Y
+STPVD-0000365,PROV000365,Smith Panel Beaters,Panel Beater,Central,Limpopo,Y
+STPVD-0000366,PROV000366,Zulu Tows,Tow,North,Eastern Cape,Y
+STPVD-0000367,PROV000367,Dlamini Glasss,Glass,,Limpopo,Y
+STPVD-0000368,PROV000368,Molefe Tows,Tow,Workshop 1,Mpumalanga,N
+STPVD-0000369,PROV000369,Ndlovu Repairers,Repairer,,Western Cape,1
+STPVD-0000370,PROV000370,Mthembu Panel Beaters,Panel Beater,Central,Limpopo,Y
+STPVD-0000371,PROV000371,Mokoena Panel Beaters,Panel Beater,Coastal,Limpopo,1
+STPVD-0000372,PROV000372,Mahlangu Repairers,Repairer,,North West,N
+STPVD-0000373,PROV000373,Khumalo Glasss,Glass,Workshop 1,Eastern Cape,Y
+STPVD-0000374,PROV000374,van der Merwe Glasss,Glass,,Free State,Yes
+STPVD-0000375,PROV000375,Mabena Repairers,Repairer,Workshop 1,Gauteng,Active
+STPVD-0000376,PROV000376,Khumalo Panel Beaters,Panel Beater,,Eastern Cape,Y
+STPVD-0000377,PROV000377,Sithole Panel Beaters,Panel Beater,,Northern Cape,Yes
+STPVD-0000378,PROV000378,Pillay Repairers,Repairer,Main branch,Limpopo,N
+STPVD-0000379,PROV000379,Botha Repairers,Repairer,,Eastern Cape,N
+STPVD-0000380,PROV000380,van der Merwe Panel Beaters,Panel Beater,Main branch,Limpopo,1
+STPVD-0000381,PROV000381,Pillay Assessors,Assessor,Coastal,North West,Y
+STPVD-0000382,PROV000382,Khumalo Panel Beaters,Panel Beater,North,Northern Cape,Y
+STPVD-0000383,PROV000383,Khumalo Panel Beaters,Panel Beater,Workshop 1,Mpumalanga,1
+STPVD-0000384,PROV000384,van der Merwe Repairers,Repairer,,Eastern Cape,N
+STPVD-0000385,PROV000385,Mahlangu Assessors,Assessor,North,Eastern Cape,Active
+STPVD-0000386,PROV000386,Sithole Assessors,Assessor,Workshop 1,Limpopo,Yes
+STPVD-0000387,PROV000387,Mthembu Panel Beaters,Panel Beater,Central,Gauteng,Active
+STPVD-0000388,PROV000388,Mthembu Glasss,Glass,Coastal,KwaZulu-Natal,Yes
+STPVD-0000389,PROV000389,Mabena Assessors,Assessor,Main branch,Gauteng,1
+STPVD-0000390,PROV000390,Molefe Glasss,Glass,Central,Northern Cape,Active
+STPVD-0000391,PROV000391,Nkosi Glasss,Glass,Central,Northern Cape,1
+STPVD-0000392,PROV000392,Zulu Tows,Tow,Main branch,North West,N
+STPVD-0000393,PROV000393,Sithole Repairers,Repairer,North,Mpumalanga,1
+STPVD-0000394,PROV000394,Mahlangu Panel Beaters,Panel Beater,Central,Northern Cape,Y
+STPVD-0000395,PROV000395,Mahlangu Panel Beaters,Panel Beater,Central,Eastern Cape,Active
+STPVD-0000396,PROV000396,Pillay Repairers,repairer,Central,Free State,Yes
+STPVD-0000397,PROV000397,Dlamini Panel Beaters,Panel Beater,Coastal,North West,Active
+STPVD-0000398,PROV000398,Sithole Panel Beaters,Panel Beater,,Mpumalanga,Y
+STPVD-0000399,PROV000399,Ndlovu Glasss,Glass,North,Northern Cape,Yes
+STPVD-0000400,PROV000400,Mokoena Tows,Tow,Workshop 1,North West,Active
+STPVD-0000401,PROV000401,van der Merwe Repairers,Repairer,Main branch,Mpumalanga,Yes
+STPVD-0000402,PROV000402,Adams Repairers,Repairer,Workshop 1,Western Cape,N
+STPVD-0000403,PROV000403,Mabena Assessors,Assessor,Central,Mpumalanga,1
+STPVD-0000404,PROV000404,Ndlovu Glasss,Glass,Workshop 1,Mpumalanga,Yes
+STPVD-0000405,PROV000405,Maseko Glasss,Glass,Central,KwaZulu-Natal,N
+STPVD-0000406,PROV000406,van der Merwe Repairers,Repairer,,Gauteng,1
+STPVD-0000407,PROV000407,Mabena Panel Beaters,Panel Beater,Workshop 1,Free State,Y
+STPVD-0000408,PROV000408,Mokoena Repairers,Repairer,,North West,Y
+STPVD-0000409,PROV000409,Mahlangu Glasss,Glass,North,North West,1
+STPVD-0000410,PROV000410,Mthembu Glasss,Glass,,Northern Cape,Y
+STPVD-0000411,PROV000411,Mokoena Panel Beaters,panel beater,Main branch,KwaZulu-Natal,1
+STPVD-0000412,PROV000412,van der Merwe Panel Beaters,panel beater,Main branch,Eastern Cape,N
+STPVD-0000413,PROV000413,Khumalo Assessors,Assessor,Workshop 1,Northern Cape,Y
+STPVD-0000414,PROV000414,Ndlovu Assessors,Assessor,Coastal,Western Cape,1
+STPVD-0000415,PROV000415,Mthembu Assessors,Assessor,Main branch,Northern Cape,Y
+STPVD-0000416,PROV000416,Smith Glasss,Glass,,North West,Y
+STPVD-0000417,PROV000417,Sithole Glasss,Glass,Coastal,Eastern Cape,N
+STPVD-0000418,PROV000418,Jacobs Glasss,Glass,Main branch,KwaZulu-Natal,1
+STPVD-0000419,PROV000419,Mokoena Tows,Tow,,KwaZulu-Natal,Active
+STPVD-0000420,PROV000420,MABENA GLASSS,Glass,North,Free State,Active
+STPVD-0000421,PROV000421,Mokoena Repairers,Repairer,Workshop 1,KwaZulu-Natal,1
+STPVD-0000422,PROV000422,Mahlangu Repairers,Repairer,Central,Gauteng,Y
+STPVD-0000423,PROV000423,Sithole Tows,Tow,Main branch,Eastern Cape,Yes
+STPVD-0000424,PROV000424,Mokoena Tows,Tow,Workshop 1,Eastern Cape,Active
+STPVD-0000425,PROV000425,Nkosi Panel Beaters,Panel Beater,Central,North West,Active
+STPVD-0000426,PROV000426,Jacobs Glasss,Glass,North,Free State,1
+STPVD-0000427,PROV000427,Nkosi Glasss,Glass,Central,Western Cape,Y
+STPVD-0000428,PROV000428,Adams Assessors,Assessor,North,Northern Cape,1
+STPVD-0000429,PROV000429,Molefe Panel Beaters,Panel Beater,,North West,Yes
+STPVD-0000430,PROV000430,Williams Glasss,Glass,Coastal,Free State,Yes
+STPVD-0000431,PROV000431,Khumalo Glasss,Glass,Coastal,Mpumalanga,1
+STPVD-0000432,PROV000432,Botha Glasss,Glass,Workshop 1,Western Cape,Yes
+STPVD-0000433,PROV000433,Naidoo Tows,Tow,Central,North West,Yes
+STPVD-0000434,PROV000434,Mokoena Assessors,Assessor,,Mpumalanga,Y
+STPVD-0000435,PROV000435,Naidoo Tows,Tow,Workshop 1,Limpopo,Yes
+STPVD-0000436,PROV000436,Williams Tows,Tow,Workshop 1,Eastern Cape,1
+STPVD-0000437,PROV000437,Molefe Panel Beaters,Panel Beater,Main branch,Eastern Cape,Active
+STPVD-0000438,PROV000438,Smith Panel Beaters,Panel Beater,Main branch,Free State,N
+STPVD-0000439,PROV000439,Mthembu Repairers,Repairer,Workshop 1,Gauteng,Yes
+STPVD-0000440,PROV000440,Molefe Repairers,Repairer,Coastal,Western Cape,Active
+STPVD-0000441,PROV000441,Williams Repairers,Repairer,Coastal,Eastern Cape,1
+STPVD-0000442,PROV000442,Nkosi Repairers,Repairer,Coastal,Eastern Cape,1
+STPVD-0000443,PROV000443,Jacobs Repairers,Repairer,North,Northern Cape,Active
+STPVD-0000444,PROV000444,Zulu Tows,Tow,Central,KwaZulu-Natal,1
+STPVD-0000445,PROV000445,Dlamini Panel Beaters,Panel Beater,Main branch,Mpumalanga,Yes
+STPVD-0000446,PROV000446,Zulu Repairers,Repairer,Main branch,KwaZulu-Natal,1
+STPVD-0000447,PROV000447,Khumalo Repairers,Repairer,Central,Western Cape,1
+STPVD-0000448,PROV000448,Mabena Glasss,Glass,,Gauteng,N
+STPVD-0000449,PROV000449,Maseko Tows,Tow,Coastal,Mpumalanga,Y
+STPVD-0000450,PROV000450,Mabena Repairers,Repairer,North,Mpumalanga,N
+STPVD-0000451,PROV000451,Ndlovu Repairers,Repairer,Workshop 1,KwaZulu-Natal,1
+STPVD-0000452,PROV000452,Jacobs Assessors,assessor,,North West,Yes
+STPVD-0000453,PROV000453,van der Merwe Assessors,assessor,Coastal,Northern Cape,1
+STPVD-0000454,PROV000454,Jacobs Glasss,Glass,Coastal,KwaZulu-Natal,Active
+STPVD-0000455,PROV000455,Dlamini Tows,Tow,North,North West,1
+STPVD-0000456,PROV000456,Zulu Repairers,Repairer,Main branch,Mpumalanga,1
+STPVD-0000457,PROV000457,Adams Assessors,Assessor,Workshop 1,Northern Cape,Y
+STPVD-0000458,PROV000458,Botha Glasss,Glass,Central,Northern Cape,N
+STPVD-0000459,PROV000459,Molefe Repairers,Repairer,Central,Northern Cape,Yes
+STPVD-0000460,PROV000460,van der Merwe Glasss,Glass,Coastal,Western Cape,Active
+STPVD-0000461,PROV000461,Zulu Tows,Tow,North,Northern Cape,Yes
+STPVD-0000462,PROV000462,Adams Glasss,Glass,Workshop 1,Free State,1
+STPVD-0000463,PROV000463,Ndlovu Panel Beaters,Panel Beater,Coastal,Free State,1
+STPVD-0000464,PROV000464,Ndlovu Tows,Tow,Central,Eastern Cape,1
+STPVD-0000465,PROV000465,Molefe Panel Beaters,Panel Beater,Main branch,Limpopo,Y
+STPVD-0000466,PROV000466,Nkosi Assessors,Assessor,Central,North West,Yes
+STPVD-0000467,PROV000467,Ndlovu Repairers,Repairer,North,Eastern Cape,Yes
+STPVD-0000468,PROV000468,Williams Assessors,Assessor,,Gauteng,Yes
+STPVD-0000469,PROV000469,Mabena Assessors,Assessor,Coastal,Limpopo,Yes
+STPVD-0000470,PROV000470,Williams Assessors,Assessor,,Gauteng,Active
+STPVD-0000471,PROV000471,Adams Tows,Tow,North,North West,1
+STPVD-0000472,PROV000472,Mahlangu Assessors,Assessor,Coastal,Limpopo,Active
+STPVD-0000473,PROV000473,Pillay Assessors,Assessor,Central,Free State,Yes
+STPVD-0000474,PROV000474,Pillay Repairers,Repairer,Workshop 1,Eastern Cape,N
+STPVD-0000475,PROV000475,Jacobs Assessors,Assessor,Workshop 1,Eastern Cape,Yes
+STPVD-0000476,PROV000476,Mahlangu Repairers,Repairer,,North West,Y
+STPVD-0000477,PROV000477,Ndlovu Panel Beaters,Panel Beater,Central,North West,1
+STPVD-0000478,PROV000478,Khumalo Assessors,Assessor,Workshop 1,Limpopo,1
+STPVD-0000479,PROV000479,Khumalo Repairers,Repairer,Main branch,Western Cape,N
+STPVD-0000480,PROV000480,Dlamini Glasss,Glass,Coastal,Mpumalanga,N
+STPVD-0000481,PROV000481,Naidoo Glasss,Glass,Main branch,Northern Cape,Yes
+STPVD-0000482,PROV000482,Mahlangu Tows,Tow,North,Gauteng,N
+STPVD-0000483,PROV000483,van der Merwe Tows,Tow,Coastal,KwaZulu-Natal,Active
+STPVD-0000484,PROV000484,Mabena Repairers,Repairer,Coastal,Gauteng,N
+STPVD-0000485,PROV000485,Khumalo Tows,Tow,Main branch,North West,Yes
+STPVD-0000486,PROV000486,Mahlangu Panel Beaters,Panel Beater,,Mpumalanga,1
+STPVD-0000487,PROV000487,Smith Panel Beaters,Panel Beater,Coastal,Mpumalanga,1
+STPVD-0000488,PROV000488,Mthembu Assessors,Assessor,Coastal,North West,1
+STPVD-0000489,PROV000489,Dlamini Panel Beaters,Panel Beater,Main branch,Northern Cape,Active
+STPVD-0000490,PROV000490,Maseko Panel Beaters,Panel Beater,Workshop 1,Western Cape,N
+STPVD-0000491,PROV000491,Ndlovu Repairers,Repairer,Coastal,Western Cape,1
+STPVD-0000492,PROV000492,Adams Panel Beaters,Panel Beater,Main branch,Eastern Cape,1
+STPVD-0000493,PROV000493,Mabena Repairers,Repairer,Central,Limpopo,N
+STPVD-0000494,PROV000494,Nkosi Tows,Tow,,Mpumalanga,1
+STPVD-0000495,PROV000495,Mokoena Glasss,Glass,Central,Eastern Cape,Yes
+STPVD-0000496,PROV000496,Molefe Tows,Tow,Workshop 1,Western Cape,Yes
+STPVD-0000497,PROV000497,Adams Assessors,Assessor,Main branch,Gauteng,Y
+STPVD-0000498,PROV000498,Molefe Tows,Tow,Coastal,KwaZulu-Natal,Yes
+STPVD-0000499,PROV000499,Pillay Assessors,Assessor,Central,Eastern Cape,N
+STPVD-0000500,PROV000500,Zulu Tows,Tow,Central,Gauteng,Yes

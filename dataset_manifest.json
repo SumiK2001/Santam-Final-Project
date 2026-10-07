@@ -1,0 +1,29 @@
+{
+  "project": "Santam Short-Term Insurance Analytics",
+  "seed": 20260930,
+  "generator_version": "1.0",
+  "as_of_date": "2025-12-31",
+  "counts": {
+    "santam_raw_customers.csv": 14000,
+    "santam_raw_intermediaries.csv": 700,
+    "santam_raw_service_providers.csv": 500,
+    "santam_raw_policies.csv": 28000,
+    "santam_raw_policy_endorsements.csv": 3340,
+    "santam_raw_claims.csv": 22000,
+    "santam_raw_premium_transactions.csv": 70000,
+    "santam_raw_geography.csv": 15,
+    "santam_raw_catastrophe_events.csv": 10
+  },
+  "planted_defect_families": [
+    "duplicate customer identifiers, registrations, provider aliases and transaction references",
+    "orphan customer, intermediary, policy and provider references",
+    "policy-risk endorsement history with point-in-time changes and bad effective dates",
+    "missing values and inconsistent product/channel/status/cause labels",
+    "mixed date and money formats, malformed dates and malformed amounts",
+    "illogical policy, loss, report, repair and settlement chronology",
+    "claims outside cover, future-dated premium events and unmatched credit notes",
+    "zero, negative, extreme and over-authorised amounts",
+    "high claim clusters around simulated catastrophe calendar events",
+    "vehicle year and sum-insured anomalies"
+  ]
+}
